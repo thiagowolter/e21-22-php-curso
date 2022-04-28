@@ -4,6 +4,8 @@
 </br>
 
 # SPRINT 01: Ambientação e Metodologias Ágeis
+
+
 </br>
 
 ## Aulas Iniciais
@@ -55,3 +57,39 @@ VS Code, Git e GitHub.
 <li>clear ou cls – Limpa todo o conteúdo na tela.
 </ul>
 
+
+## 28/04
+
+### Atividade prática em grupos Git/GitHub:
+</br>
+Clonar repositório de outra pessoa, utilizando comandos no PowerShell:
+</br>
+
+```Git Clone [link do repositório]```
+
+Gerar conflitos no arquivo e resolver os conflitos utilizando ```Git push``` para enviar as alterações e ```Git pull``` para baixar as alterações.
+
+# sp2
+
+## 28/04
+
+### Primeiro exercício de lógica
+
+- Escolher entre sacar dinheiro, tomar banho ou comer pizza e descrever a tarefa em 10 passos lógicos.
+</br>
+
+- Comer pizza em 10 passos:
+
+ <ol>
+ <li>pegar celular
+ <li>abrir aplicativo de delivery
+ <li>escolher sabor
+ <li>realizar pedido
+ <li>aguardar a chegada
+ <li>atender o entregador
+ <li>abrir embalagem
+ <li>cortar
+ <li>colocar no prato
+ <li>comer
+
+ </ol>
