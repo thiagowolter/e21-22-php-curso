@@ -69,7 +69,7 @@ Clonar repositório de outra pessoa, utilizando comandos no PowerShell:
 
 Gerar conflitos no arquivo e resolver os conflitos utilizando ```Git push``` para enviar as alterações e ```Git pull``` para baixar as alterações.
 
-# sp2
+# SPRINT 02: Lógica de Programação
 
 ## 28/04
 
@@ -91,5 +91,30 @@ Gerar conflitos no arquivo e resolver os conflitos utilizando ```Git push``` par
  <li>cortar
  <li>colocar no prato
  <li>comer
+ </ol> 
+ </br>
 
- </ol>
+## 29/04
+
+### Daily Scrum:
+
+- O que fiz ontem? </br>
+R: Refiz a atividade prática do Git/GitHub, de clonagem e geração de conflitos.
+Atividade de passos lógicos </br>
+- O que vamos fazer hoje? </br>
+R: Organizar o Trello
+- O que me impede/impediu? </br>
+R: Tudo ocorrendo da melhor forma até aqui. </br>
+
+**sprint review**
+detalhar....
+**sprint planning**
+detalhar....
+
+
+introdução a lógica, representação e suas fases
+
+definir problema - usuario
+analise de problema - dev
+analisar de forma lógica/algoritmica no papel e definir se realamente vai conseguir fazer o q é pedido
+codificar - executar o kanban/scrum
