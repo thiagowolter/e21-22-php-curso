@@ -2,8 +2,18 @@
 **Repositório para sincronização de todos os testes, arquivos e documentos no Entra21 em 2022:**
 
 </br>
+-
+-
+-- objetivos do curso
 
-# SPRINT 01: Ambientação e Metodologias Ágeis
+
+- detalhar ferramentas
+-
+-
+- etc
+-
+
+# SPRINT 01 - Ambientação e Metodologias Ágeis
 
 
 </br>
@@ -69,7 +79,10 @@ Clonar repositório de outra pessoa, utilizando comandos no PowerShell:
 
 Gerar conflitos no arquivo e resolver os conflitos utilizando ```Git push``` para enviar as alterações e ```Git pull``` para baixar as alterações.
 
-# SPRINT 02: Lógica de Programação
+
+</br>
+
+# SPRINT 02 - Lógica de Programação
 
 ## 28/04
 
@@ -106,15 +119,25 @@ R: Organizar o Trello
 - O que me impede/impediu? </br>
 R: Tudo ocorrendo da melhor forma até aqui. </br>
 
-**sprint review**
-detalhar....
-**sprint planning**
-detalhar....
+ ### Sprint Review:
+ Revisão da primeira Sprint do curso.
+</br>
+
+ ### Sprint Planning
+Realização do planejamento da sprint seguinte, por meio da ferramenta Trello, aplicando os métodos ágeis.
+
+</br>
 
 
-introdução a lógica, representação e suas fases
+### Introdução a lógica, representação e suas fases
+<ol>
+<li>Definir o problema - usuário define os requisitos
+<li>Analisar o problema - desenvolvedor
+<li>Analisar de forma lógica/algorítmica no papel e definir se realamente é possível executar o que foi pedido dentro do prazo.
+<li>Codificar - executar o que foi analisado (kanban/scrum).
+</ol>
 
-definir problema - usuario
-analise de problema - dev
-analisar de forma lógica/algoritmica no papel e definir se realamente vai conseguir fazer o q é pedido
-codificar - executar o kanban/scrum
+## 02/05
+
+### Daily Scrum
+
