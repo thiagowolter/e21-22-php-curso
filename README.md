@@ -134,6 +134,7 @@ Realização do planejamento da sprint seguinte, por meio da ferramenta Trello, 
 <li>Definir o problema - usuário define os requisitos
 <li>Analisar o problema - desenvolvedor
 <li>Analisar de forma lógica/algorítmica no papel e definir se realamente é possível executar o que foi pedido dentro do prazo.
+<li>Teste
 <li>Codificar - executar o que foi analisado (kanban/scrum).
 </ol>
 
@@ -141,3 +142,26 @@ Realização do planejamento da sprint seguinte, por meio da ferramenta Trello, 
 
 ### Daily Scrum
 
+- O que fiz ontem? </br>
+R: Sprint Planning e Sprint Review. Introdução a lógica.
+Atividade de passos lógicos </br>
+- O que vamos fazer hoje? </br>
+R: Ambiente de desenvolvimento
+- O que me impede/impediu? </br>
+R: Tudo ocorrendo da melhor forma até aqui. </br>
+
+
+**ideia de aplicação**
+
+### Ambiente de desenvolvimento
+- Breve explicação sobre o VS Code
+- Breve explanação sobre o XAMPP
+
+### Linguagens compiladas e Interpretadas
+
+- Compiladas - Possui melhor desempenho, é a máquina de destino que faz a tradução da aplicação através de um arquivo executável. </br>
+ - Interpretadas - Possuem maior portabilidade porém não é traduzido diretamente pela máquina e sim por programas interpretadores.
+
+
+### variaveis - dados volateis
+permantentes - banco de dados
