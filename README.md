@@ -1,19 +1,36 @@
 # e21-22-php-curso
 **Repositório para sincronização de todos os testes, arquivos e documentos no Entra21 em 2022:**
 
+# Índice
+1. [Explanação](#explanação)
+2. [StartUp](#startup)
+3. [Ferramentas Utilizadas](#ferramentas-utilizadas)
+4. [Referências de Pesquisa](#referências-de-pesquisa)
+5. [Sprint 01 - Ambientação e Metodologias Ágeis](#sprint-01---ambientação-e-metodologias-ágeis-a-nome"sprint-01"a)
+6. [Sprint 02 - Lógica de Programação](#sprint-02---lógica-de-programação)
+
 </br>
--
--
--- objetivos do curso
+
+# Explanação
+
+- O aluno iniciará nesta sprint um documento tipo README.md que será editado e implementado em todo o treinamento até o final do curso.</br>
+- Esta atividade é abrangente e ficará por fim a mostrapara os patrocinadores e publicada na internet no perfil github.com do aluno. </br>
+- Todas as atividades de aula serão anotadas neste documento e em alguns documentos auxiliares que serão desenvolvidos. </br>
+- A atividade tem por fim concentrar todo o conteúdo do treinamento.  </br>
+- O formato de desenvolvimento da atividade será nos moldes dos métodos Ágeis ensinados aqui e levados até o final do treinamento.  </br>
+- Este arquivo será atualizado todos os dias de treinamento e será disponibilizado ao
+no final do treinamento e entregue juntamente com sua aplicação ou trabalho de conclusão do curso na mostra de talentos. </br>
+- O arquivo bem como o histórico git do repositório será analisado pelo instrutor
+durante o treinamento e deverá ser mantido até o final.
+
+# StartUp
+
+# Ferramentas Utilizadas
+
+# Referências de Pesquisa
 
 
-- detalhar ferramentas
--
--
-- etc
--
-
-# SPRINT 01 - Ambientação e Metodologias Ágeis
+# SPRINT 01 - Ambientação e Metodologias Ágeis 
 
 
 </br>
