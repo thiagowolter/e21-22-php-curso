@@ -4,11 +4,13 @@
 
 # Índice
 1. [Explanação](#explanação)
-2. [StartUp](#startup)
-3. [Ferramentas Utilizadas](#ferramentas-utilizadas)
-4. [Referências de Pesquisa](#referências-de-pesquisa)
-5. [Sprint 01 - Ambientação e Metodologias Ágeis](#sprint-01---ambientação-e-metodologias-ágeis-a-nome"sprint-01"a)
-6. [Sprint 02 - Lógica de Programação](#sprint-02---lógica-de-programação)
+2. [Status](#status)
+3. [Autor](#autor-thiago-elias-wolter)
+4. [StartUp](#startup)
+5. [Ferramentas Utilizadas](#ferramentas-utilizadas)
+6. [Referências de Pesquisa e Publicações](#referências-de-pesquisa-e-publicações)
+7. [Sprint 01 - Ambientação e Metodologias Ágeis](#sprint-01---ambientação-e-metodologias-ágeis)
+8. [Sprint 02 - Lógica de Programação](#sprint-02---lógica-de-programação)
 
 </br>
 
@@ -24,18 +26,22 @@ no final do treinamento e entregue juntamente com sua aplicação ou trabalho de
 - O arquivo bem como o histórico git do repositório será analisado pelo instrutor
 durante o treinamento e deverá ser mantido até o final.
 
-# status
+# Status
 
-# feito por:
-email
-whats 
-etc
+Em desenvolvimento até o final do treinamento.
+
+# Autor: Thiago Elias Wolter
+- Email: thiagocetel@hotmail.com ou thiagowolter7@gmail.com
+- Whatsapp: +55 (47) 99264-2641
+- Telegram: +55 (47) 99264-2641 
+- Linkedin:
+- GitHub: https://github.com/thiagowolter
 
 # StartUp
 
 # Ferramentas Utilizadas
 
-# Referências de Pesquisa
+# Referências de Pesquisa e Publicações
 
 
 # SPRINT 01 - Ambientação e Metodologias Ágeis 
@@ -176,8 +182,6 @@ R: Ambiente de desenvolvimento
 R: Tudo ocorrendo da melhor forma até aqui. </br>
 
 
-**ideia de aplicação**
-
 ### Ambiente de desenvolvimento
 - Breve explicação sobre o VS Code
 - Breve explanação sobre o XAMPP
@@ -204,8 +208,49 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
  ### Daily Scrum
 
  - O que fiz ontem? </br>
-R: Explicação sobre o ambiente de desenvolvimento, variáveis e tipos de dados </br>
+R: Explicação sobre o ambiente de desenvolvimento, variáveis e tipos de dados. Aula de inglês, primeiros passos. </br>
 - O que vamos fazer hoje? </br>
-R: Revisão geral
+R: Revisão geral, Portugol e novos comandos GIT
 - O que me impede/impediu? </br>
 R: Tudo ocorrendo da melhor forma até aqui. </br>
+</br>
+
+### **Revisão geral sobre GIT/GITHub:**
+</br>
+
+- Criar um **diretorio local**:
+
+```
+mkdir NOMEDOREPOSITORIO 
+cd NOMEDOREPOSTITORIO
+```
+- Transformando em **repositório local**:
+
+```
+  echo "# e2122-php-testeteste" >> README.md (Criar um arquivo dentro do diretório que desejamos transformar em repositorio.)
+
+  git init  (inicialiar o diretorio como sendo um repositorio do tipo GIT.)
+
+  git add README.md (Adicionar arquivo do diretorio ao repositorio.) 
+
+  .. ou ..
+
+  git add . (Adicionar todos arquivos do diretorio ao repositório.)
+
+  git commit -m "criando readme"
+  ```
+   - Enviando repositório para a **nuvem**:
+```
+  git branch -M main
+  git remote add origin git@github.com:usuario/nomedorepositorio.git
+  git push -u origin main
+```
+- Fluxo de **atualizações** de arquivos por meio do Git
+
+```
+  git pull
+  git add .
+  git commit -m " "
+  git push
+  git pull 
+```
