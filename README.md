@@ -1,5 +1,6 @@
 # e21-22-php-curso
-**Repositório para sincronização de todos os testes, arquivos e documentos no Entra21 em 2022:**
+## **Repositório para sincronização de todos os testes, arquivos e documentos no Entra21 em 2022.**
+</br>
 
 # Índice
 1. [Explanação](#explanação)
@@ -22,6 +23,13 @@
 no final do treinamento e entregue juntamente com sua aplicação ou trabalho de conclusão do curso na mostra de talentos. </br>
 - O arquivo bem como o histórico git do repositório será analisado pelo instrutor
 durante o treinamento e deverá ser mantido até o final.
+
+# status
+
+# feito por:
+email
+whats 
+etc
 
 # StartUp
 
@@ -180,5 +188,24 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
  - Interpretadas - Possuem maior portabilidade porém não é traduzido diretamente pela máquina e sim por programas interpretadores.
 
 
-### variaveis - dados volateis
-permantentes - banco de dados
+### Variáveis
+
+ - Variáveis são espaços que armazenam determinados dados em um algoritmo. Estas podem armazanar diversos tipos de dados, como pode ser visto no próximo tópico.
+
+### Tipos de dados
+
+ - Boolean: recebe verdadeiro ou falso (true or false). </br>
+ - Int: É um número não fracionado, por exemplo 2, -3, 4 e etc. </br>
+ - Float: É um número que pode conter casas decimais, por exemplo: 3,141.
+ - String: É uma sequencia de caracteres, por exemplo: "nomedoaluno", "casa3453", "porta1".
+
+ ## 04/05
+
+ ### Daily Scrum
+
+ - O que fiz ontem? </br>
+R: Explicação sobre o ambiente de desenvolvimento, variáveis e tipos de dados </br>
+- O que vamos fazer hoje? </br>
+R: Revisão geral
+- O que me impede/impediu? </br>
+R: Tudo ocorrendo da melhor forma até aqui. </br>
