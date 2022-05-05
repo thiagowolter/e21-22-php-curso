@@ -43,6 +43,7 @@ Em desenvolvimento até o final do treinamento.
 
 # Referências de Pesquisa e Publicações
 
+**assistir** https://www.youtube.com/watch?v=JIoesV-59Xk
 
 # SPRINT 01 - Ambientação e Metodologias Ágeis 
 
@@ -50,19 +51,19 @@ Em desenvolvimento até o final do treinamento.
 </br>
 
 ## Aulas Iniciais
-<ul>
-<li>Bastante aprendizado e teorias sobre as metodologias
+
+- Bastante aprendizado e teorias sobre as metodologias
 ágeis, como o Scrum e o Kanban.
 
-<li>Utilização da ferramenta Trello.
-</ul>
+- Utilização da ferramenta [Trello](#ferramentas-utilizadas).
+
 
 ## 25/04
-<ul>
-<li>Orientações para atividade prática e implementação das metodologias ágeis.
 
-<li>Instalação e configuração de ferramentas, como o
-VS Code, Git e GitHub. 
+- Orientações para atividade prática e implementação das metodologias ágeis.
+
+- Instalação e configuração de ferramentas, como o
+[VS Code](#ferramentas-utilizadas), [Git](#ferramentas-utilizadas) e [GitHub](#ferramentas-utilizadas). 
 
 </ul>
 
@@ -103,7 +104,7 @@ VS Code, Git e GitHub.
 
 ### Atividade prática em grupos Git/GitHub:
 </br>
-Clonar repositório de outra pessoa, utilizando comandos no PowerShell:
+Clonar repositório de outra pessoa, utilizando comandos no [PowerShell](#ferramentas-utilizadas):
 </br>
 
 ```Git Clone [link do repositório]```
@@ -184,7 +185,7 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 
 ### Ambiente de desenvolvimento
 - Breve explicação sobre o VS Code
-- Breve explanação sobre o XAMPP
+- Breve explanação sobre o [XAMPP](#ferramentas-utilizadas)
 
 ### Linguagens compiladas e Interpretadas
 
@@ -257,9 +258,16 @@ cd NOMEDOREPOSTITORIO
 
 ## 05/05
 
-https://www.youtube.com/watch?v=JIoesV-59Xk
+- O que fiz ontem? </br>
+R: Revisão geral sobre Git/GitHub </br>
+- O que vamos fazer hoje? </br>
+Primeiros comandos no PORTUGOL
+- O que me impede/impediu? </br>
+R: Tudo ocorrendo da melhor forma até aqui. </br>
+
+### Portugol
+</br>
+
+ - Explicação, exercícios e exemplos de algorítmos em Portugol por meio do [Portugol Web Studio](#ferramentas-utilizadas). Segue a lista dos [exercícios e exemplos](arq_aux/001portugol.md) realizados durante a aula.
 
 
-daily scrum
-
-arquivo auxiliar <a href="/arquivos_auxiliares/001portugol.md" target: _blank>portugol</a>
