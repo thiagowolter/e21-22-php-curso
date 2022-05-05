@@ -254,3 +254,12 @@ cd NOMEDOREPOSTITORIO
   git push
   git pull 
 ```
+
+## 05/05
+
+https://www.youtube.com/watch?v=JIoesV-59Xk
+
+
+daily scrum
+
+arquivo auxiliar <a href="/arquivos_auxiliares/001portugol.md" target: _blank>portugol</a>
