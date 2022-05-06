@@ -1,8 +1,13 @@
 # e21-22-php-curso
+
 ## **Repositório para sincronização de todos os testes, arquivos e documentos no Entra21 em 2022.**
 </br>
+</br>
 
-# Índice
+![logoe21](/img/logo-e21.png)
+
+</br>
+
 1. [Explanação](#explanação)
 2. [Status](#status)
 3. [Autor](#autor-thiago-elias-wolter)
@@ -30,6 +35,7 @@ durante o treinamento e deverá ser mantido até o final.
 
 Em desenvolvimento até o final do treinamento.
 
+
 # Autor: Thiago Elias Wolter
 - Email: thiagocetel@hotmail.com ou thiagowolter7@gmail.com
 - Whatsapp: +55 (47) 99264-2641
@@ -40,6 +46,33 @@ Em desenvolvimento até o final do treinamento.
 # StartUp
 
 # Ferramentas Utilizadas
+
+## **TRELLO**
+
+![trello](/img/trello.png)
+
+Ferramenta para auxiliar na aplicação das metodologias ágeis. Perfeito para gerenciar projetos e agilizar o trabalho, gerando cada vez mais produtividade. [Acesse aqui](https://trello.com/).
+
+## **GIT**
+
+![git](/img/git.png)
+
+Sistema gratuito de controle de versão. Crie repositórios locais. [Acesse aqui](https://git-scm.com/).
+
+## **GITHUB**
+
+![github](/img/github.png)
+
+Repositório na nuvem para armazanar seus códigos e arquivos (clona seu repositório local). [Acesse aqui](https://github.com/). Se preferir, pode fazer download do [GitHub Desktop](https://desktop.github.com/).
+
+## **VISUAL STUDIO CODE**
+
+![code](/img/code.png)
+
+IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta diversas linguagens, permite instalar extensões e é compatível com o GIT. [Acesse aqui](https://code.visualstudio.com/) ou faça [Download](https://code.visualstudio.com/download).
+
+## **PORTUGOL STUDIO**
+
 
 # Referências de Pesquisa e Publicações
 
