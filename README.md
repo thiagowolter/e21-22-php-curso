@@ -8,18 +8,18 @@
 
 </br>
 
-1. [Explanação](#explanação)
-2. [Status](#status)
-3. [Autor](#autor-thiago-elias-wolter)
-4. [StartUp](#startup)
-5. [Ferramentas Utilizadas](#ferramentas-utilizadas)
-6. [Referências de Pesquisa e Publicações](#referências-de-pesquisa-e-publicações)
+1. [Explanação](#📄-explanação)
+2. [Status](#⌛-status)
+3. [Autor](#✏️-autor-thiago-elias-wolter)
+4. [StartUp](#✅-startup)
+5. [Ferramentas Utilizadas](#⚙️-ferramentas-utilizadas)
+6. [Referências de Pesquisa e Publicações](#🔎-referências-de-pesquisa-e-publicações)
 7. [Sprint 01 - Ambientação e Metodologias Ágeis](#sprint-01---ambientação-e-metodologias-ágeis)
 8. [Sprint 02 - Lógica de Programação](#sprint-02---lógica-de-programação)
 
 </br>
 
-# Explanação
+# 📄 Explanação
 
 - O aluno iniciará nesta sprint um documento tipo README.md que será editado e implementado em todo o treinamento até o final do curso.</br>
 - Esta atividade é abrangente e ficará por fim a mostrapara os patrocinadores e publicada na internet no perfil github.com do aluno. </br>
@@ -31,52 +31,50 @@ no final do treinamento e entregue juntamente com sua aplicação ou trabalho de
 - O arquivo bem como o histórico git do repositório será analisado pelo instrutor
 durante o treinamento e deverá ser mantido até o final.
 
-# Status
+# ⌛ Status
 
 Em desenvolvimento até o final do treinamento.
 
 
-# Autor: Thiago Elias Wolter
+# ✏️ Autor: Thiago Elias Wolter
 - Email: thiagocetel@hotmail.com ou thiagowolter7@gmail.com
 - Whatsapp: +55 (47) 99264-2641
 - Telegram: +55 (47) 99264-2641 
 - Linkedin:
 - GitHub: https://github.com/thiagowolter
 
-# StartUp
+# ✅ StartUp
 
-# Ferramentas Utilizadas
+# ⚙️ Ferramentas Utilizadas
 
 ## **TRELLO**
 
-![trello](/img/trello.png)
 
 Ferramenta para auxiliar na aplicação das metodologias ágeis. Perfeito para gerenciar projetos e agilizar o trabalho, gerando cada vez mais produtividade. [Acesse aqui](https://trello.com/).
 
 ## **GIT**
 
-![git](/img/git.png)
 
 Sistema gratuito de controle de versão. Crie repositórios locais. [Acesse aqui](https://git-scm.com/).
 
 ## **GITHUB**
 
-![github](/img/github.png)
 
 Repositório na nuvem para armazanar seus códigos e arquivos (clona seu repositório local). [Acesse aqui](https://github.com/). Se preferir, pode fazer download do [GitHub Desktop](https://desktop.github.com/).
 
 ## **VISUAL STUDIO CODE**
 
-![code](/img/code.png)
 
 IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta diversas linguagens, permite instalar extensões e é compatível com o GIT. [Acesse aqui](https://code.visualstudio.com/) ou faça [Download](https://code.visualstudio.com/download).
 
-## **PORTUGOL STUDIO**
+## **PORTUGOL WEBSTUDIO**
 
 
-# Referências de Pesquisa e Publicações
+IDE totalmente online (via navegador) para desenvolver seus códigos e algorítmos em Portugol. [Acesse aqui](https://portugol-webstudio.cubos.io/ide).
 
-**assistir** https://www.youtube.com/watch?v=JIoesV-59Xk
+# 🔎 Referências de Pesquisa e Publicações
+
+
 
 # SPRINT 01 - Ambientação e Metodologias Ágeis 
 
@@ -88,7 +86,7 @@ IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta div
 - Bastante aprendizado e teorias sobre as metodologias
 ágeis, como o Scrum e o Kanban.
 
-- Utilização da ferramenta [Trello](#ferramentas-utilizadas).
+- Utilização da ferramenta [Trello](#⚙️-ferramentas-utilizadas).
 
 
 ## 25/04
@@ -96,7 +94,7 @@ IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta div
 - Orientações para atividade prática e implementação das metodologias ágeis.
 
 - Instalação e configuração de ferramentas, como o
-[VS Code](#ferramentas-utilizadas), [Git](#ferramentas-utilizadas) e [GitHub](#ferramentas-utilizadas). 
+[VS Code](#⚙️-ferramentas-utilizadas), [Git](#⚙️-ferramentas-utilizadas) e [GitHub](#⚙️-ferramentas-utilizadas). 
 
 </ul>
 
@@ -137,7 +135,7 @@ IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta div
 
 ### Atividade prática em grupos Git/GitHub:
 </br>
-Clonar repositório de outra pessoa, utilizando comandos no [PowerShell](#ferramentas-utilizadas):
+Clonar repositório de outra pessoa, utilizando comandos no [PowerShell](#⚙️-ferramentas-utilizadas):
 </br>
 
 ```Git Clone [link do repositório]```
@@ -218,7 +216,7 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 
 ### Ambiente de desenvolvimento
 - Breve explicação sobre o VS Code
-- Breve explanação sobre o [XAMPP](#ferramentas-utilizadas)
+- Breve explanação sobre o [XAMPP](#⚙️-ferramentas-utilizadas)
 
 ### Linguagens compiladas e Interpretadas
 
@@ -301,6 +299,7 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 ### Portugol
 </br>
 
- - Explicação, exercícios e exemplos de algorítmos em Portugol por meio do [Portugol Web Studio](#ferramentas-utilizadas). Segue a lista dos [exercícios e exemplos](arq_aux/001portugol.md) realizados durante a aula.
+ - Explicação, exercícios e exemplos de algorítmos em Portugol por meio do [Portugol Web Studio](#⚙️-ferramentas-utilizadas). </br>
+ - Lista dos exercícios e exemplos feitos: [CÓDIGOS EM PORTUGOL](arq_aux/001portugol.md).
 
 
