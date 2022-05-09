@@ -8,7 +8,7 @@ calcule o desconto de INSS de acordo com a sua faixa salarial:
 < 4000 9% desconto
 > 10000 10% desconto.
 
-```
+
 
 programa {
   funcao inicio() {
@@ -56,4 +56,3 @@ programa {
 }
 
 
-```

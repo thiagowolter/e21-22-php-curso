@@ -6,7 +6,7 @@ Elabore um algoritmo que receba dois numeros pelo teclado e compare se os numero
 - B < A 
 E informe o usuário.
 
-```
+
 programa {
 	funcao inicio() {
 		real a, b
@@ -30,4 +30,3 @@ programa {
 		
 	}
 }
-```

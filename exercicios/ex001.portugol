@@ -6,7 +6,7 @@ recebendo, para isso o valor da base e da altura em centimetros.
 Imprima o tamanho em centimetros. 
 fazer commit.
 
-``` 
+
   
     programa {
 	    funcao inicio() {
@@ -21,7 +21,7 @@ fazer commit.
         }
 	}
 
-```
+
 
 # Exercicio 002: Versão 002.
 
@@ -36,7 +36,7 @@ Adicionar condicional composta. Adicione o seguinte teste em eu algoritmo:
     - Uma fazenda acima de 10000m2 
 
 
-```
+
 	programa {
    
 	funcao inicio() {
@@ -68,4 +68,3 @@ Adicionar condicional composta. Adicione o seguinte teste em eu algoritmo:
 	}
 }
 
-```

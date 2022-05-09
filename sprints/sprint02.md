@@ -175,6 +175,18 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 
 ## 09/05
 
-- Exercicios em portugol
+### Daily Scrum
 
-[EX01](/exercicios/ex001.portugol)
+- O que fiz ontem? </br>
+R: Exercícios em Portugol </br>
+- O que vamos fazer hoje? </br>
+R: Continuação de exercícios
+- O que me impede/impediu? </br>
+R: Dificuldades em alguns exercicios. </br>
+
+### Exercicios em portugol:
+
+- [Exercicio 001](/exercicios/ex001.portugol)
+- [Exercicio 002](/exercicios/ex002.portugol)
+- [Exercicio 003](/exercicios/ex003.portugol)
+- [Exercicio 004](/exercicios/ex004.portugol)
