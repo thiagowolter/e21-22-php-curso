@@ -177,4 +177,4 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 
 - Exercicios em portugol
 
-[EX01](/exercicios/ex001portugol.md)
+[EX01](/exercicios/ex001.portugol)
