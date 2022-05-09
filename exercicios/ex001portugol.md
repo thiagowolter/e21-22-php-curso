@@ -1,0 +1,71 @@
+
+# Exercicio 001: Versão 001.
+
+- Elbore um algoritmo que calcule a área de um retangulo qualquer, 
+recebendo, para isso o valor da base e da altura em centimetros.
+Imprima o tamanho em centimetros. 
+fazer commit.
+
+``` 
+  
+    programa {
+	    funcao inicio() {
+		real base, altura, area
+		
+		escreva("Comprimento da base: ")
+		leia(base)
+		escreva("Comprimento da altura: ")
+		leia(altura)
+		area = base * altura
+		escreva("A area total do retangulo é ",area,"cm2")
+        }
+	}
+
+```
+
+# Exercicio 002: Versão 002.
+
+Adicionar condicional composta. Adicione o seguinte teste em eu algoritmo: 
+- Modifique a unidade para Metros.
+- O Retangulo agora representará uma area de terra.
+- Calcule a medida de frente e lateral da área e informe o usuario se a área 
+    - informada se trata de:
+    - um Terreno até 1000m2, 
+    - Um sítio, até 5000m2
+    - Em Hectare de terra até 10000m2
+    - Uma fazenda acima de 10000m2 
+
+
+```
+	programa {
+   
+	funcao inicio() {
+		real frente, lateral, area, conversor_metros
+		
+		escreva("Comprimento da frente: ")
+		leia(frente)
+		escreva("Comprimento da lateral: ")
+		leia(lateral)
+		area = frente * lateral
+		escreva(" A area total é ",area,"cm2")
+		
+		conversor_metros = area / 100
+		escreva("\n A area total em metros é:",conversor_metros,"m2\n")
+		
+		se (conversor_metros > 0 e conversor_metros <1000){
+		    escreva("\n Voce possui um terreno \n")
+		}
+		
+		se (conversor_metros >=1000 e conversor_metros <5000){
+		    escreva("\n Voce possui um sitio \n")
+		}
+		se (conversor_metros >=5000 e conversor_metros <10000){
+		    escreva("\n Voce possui um hectare \n")
+		}
+		se (conversor_metros >=10000){
+		    escreva("\n Voce possui uma fazenda  \n")
+		}	
+		}
+	}
+
+```

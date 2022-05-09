@@ -173,4 +173,8 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 - Continuação: [CÓDIGOS EM PORTUGOL](/arq_aux/001portugol.md).
 
 
-links relativos e absolutos
+## 09/05
+
+- Exercicios em portugol
+
+[EX01](/exercicios/ex001portugol.md)
