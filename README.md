@@ -289,6 +289,8 @@ cd NOMEDOREPOSTITORIO
 
 ## 05/05
 
+### Daily Scrum
+
 - O que fiz ontem? </br>
 R: Revisão geral sobre Git/GitHub </br>
 - O que vamos fazer hoje? </br>
@@ -300,6 +302,22 @@ R: Tudo ocorrendo da melhor forma até aqui. </br>
 </br>
 
  - Explicação, exercícios e exemplos de algorítmos em Portugol por meio do [Portugol Web Studio](#⚙️-ferramentas-utilizadas). </br>
- - Lista dos exercícios e exemplos feitos: [CÓDIGOS EM PORTUGOL](arq_aux/001portugol.md).
+ - Lista dos exercícios e exemplos feitos: [CÓDIGOS EM PORTUGOL](/arq_aux/001portugol.md).
+
+## 06/05
+
+### Daily Scrum
+
+- O que fiz ontem? </br>
+R: Exercícios em Portugol </br>
+- O que vamos fazer hoje? </br>
+R: Continuação de exercícios
+- O que me impede/impediu? </br>
+R: Tudo ocorrendo da melhor forma até aqui. </br>
+
+### Portugol
+
+- Continuação: [CÓDIGOS EM PORTUGOL](/arq_aux/001portugol.md).
 
 
+links relativos e absolutos
