@@ -1,0 +1,59 @@
+#Exercício 003
+
+Elabore um algoritmo que receba o salario bruto de um funcionario e 
+calcule o desconto de INSS de acordo com a sua faixa salarial:
+
+< 1000 5% desconto
+< 2000 7% desconto 
+< 4000 9% desconto
+> 10000 10% desconto.
+
+```
+
+programa {
+  funcao inicio() {
+    real sal, res, vr
+
+    escreva("informe seu salario: ")
+    leia(sal)
+
+    se ( sal <1000 )
+		{
+			res = sal * 0.05 
+			escreva("O seu desconto do INSS é de 5%, num total de R$ ",res,",00")
+            vr = sal - res
+            escreva("\n Seu novo salario é ",vr, "!")
+		}
+    se (sal >=1000 e sal <2000)
+        {
+            res = sal * 0.07 
+			escreva("O seu desconto do INSS é de 7%, num total de R$ ",res,",00")
+            vr = sal - res
+            escreva("\n Seu novo salario é ",vr, ",00")
+        }
+    se (sal >=2000 e sal <4000)
+        {
+            res = sal * 0.09 
+			escreva("O seu desconto do INSS é de 9%, num total de R$ ",res,",00")
+            vr = sal - res
+            escreva("\n Seu novo salario é ",vr, ",00")
+        }
+    se (sal >=4000 e sal <10000)
+        {
+            res = sal * 0.095 
+			escreva("O seu desconto do INSS é de 9,5%, num total de R$ ",res,",00")
+            vr = sal - res
+            escreva("\n Seu novo salario é ",vr, ",00")
+        }    
+    se (sal >=10000)
+        {
+            res = sal * 0.10 
+			escreva("O seu desconto do INSS é de 10%, num total de R$ ",res,",00")
+            vr = sal - res
+            escreva("\n Seu novo salario é ",vr, ",00")
+        }    
+  }
+}
+
+
+```

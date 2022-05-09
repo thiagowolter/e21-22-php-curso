@@ -1,0 +1,29 @@
+#Exercicio: Laço de Repetição
+
+#Versão 001: 
+
+- Crie um algoritmo que receba 2 numeros, 
+- multiplique o resultados de AxB.
+- Imprima o resultado na tela 
+
+``` 
+programa {
+	funcao inicio() {
+		real a, b, mult
+		
+		escreva("digite numero A: ")
+		leia(a)
+		escreva("digite numero B: ")
+		leia(b)
+		
+		mult = a * b
+		escreva("\n Resultado da multiplicacao é ",mult,"!")
+	}
+}
+```
+
+# Versão 002:
+- adicione um laço de repetição para todo o algoritmo que seja executado 
+até que a multiplicação resulte em 1000
+- ao sair informe o usuario que o resultado é igual a 1000 e aborte o laço. 
+- utilize o recurso de funcões() para este Exercicio

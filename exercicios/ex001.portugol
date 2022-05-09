@@ -65,7 +65,7 @@ Adicionar condicional composta. Adicione o seguinte teste em eu algoritmo:
 		se (conversor_metros >=10000){
 		    escreva("\n Voce possui uma fazenda  \n")
 		}	
-		}
 	}
+}
 
 ```
