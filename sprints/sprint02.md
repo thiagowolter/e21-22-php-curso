@@ -190,3 +190,5 @@ R: Dificuldades em alguns exercicios. </br>
 - [Exercicio 002](/exercicios/ex002.portugol)
 - [Exercicio 003](/exercicios/ex003.portugol)
 - [Exercicio 004](/exercicios/ex004.portugol)
+
+[voltar](/README.md)

@@ -14,7 +14,7 @@
 4. [StartUp](#✅-startup)
 5. [Ferramentas Utilizadas](#⚙️-ferramentas-utilizadas)
 6. [Referências de Pesquisa e Publicações](#🔎-referências-de-pesquisa-e-publicações)
-7. [Sprints](#🏁-sprints-do-curso)
+7. [Sprints](#🏁-sprints-do-curso-e-conteúdos)
 
 </br>
 
@@ -75,11 +75,12 @@ IDE totalmente online (via navegador) para desenvolver seus códigos e algorítm
 </br>
 </br>
 
-# 🏁 Sprints do Curso
+# 🏁 Sprints do Curso e Conteúdos
 
 ## [SPRINT 01 - Ambientação e Metodologias Ágeis](/sprints/sprint01.md)
 
-
 ## [SPRINT 02 - Lógica de Programação](/sprints/sprint02.md)
+
+## [ENGLISH Classes](/sprints/english.md)
 
 
