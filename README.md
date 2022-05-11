@@ -10,11 +10,12 @@
 
 1. [Explanação](#📄-explanação)
 2. [Status](#⌛-status)
-3. [Autor](#✏️-autor-thiago-elias-wolter)
-4. [StartUp](#✅-startup)
+3. [Autor](#✏️-autor)
+4. [StartUp](#🤝-startup)
 5. [Ferramentas Utilizadas](#⚙️-ferramentas-utilizadas)
-6. [Referências de Pesquisa e Publicações](#🔎-referências-de-pesquisa-e-publicações)
-7. [Sprints](#🏁-sprints-do-curso-e-conteúdos)
+6. [Sprints](#🏁-sprints-do-curso-e-conteúdos)
+7. [Referências de Pesquisa e Publicações](#🔎-referências-de-pesquisa-e-publicações)
+
 
 </br>
 
@@ -32,47 +33,62 @@ durante o treinamento e deverá ser mantido até o final.
 
 # ⌛ Status
 
-Em desenvolvimento até o final do treinamento.
+- Arquivo estará em fase de desenvolvimento até o final do treinamento.
 
+</br>
 
-# ✏️ Autor: Thiago Elias Wolter
-- Email: thiagocetel@hotmail.com ou thiagowolter7@gmail.com
-- Whatsapp: +55 (47) 99264-2641
-- Telegram: +55 (47) 99264-2641 
-- Linkedin:
-- GitHub: https://github.com/thiagowolter
+# ✏️ Autor
 
-# ✅ StartUp
+ - Meu nome é Thiago Elias Wolter, sou estudante de Análise e Desenvolvimento de Sistemas e sou aluno de PHP no programa ENTRA21!
+
+</br>
+
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/554792642641)  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-wolter-42b933238/)   
+[![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagowolter7@gmail.com)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagowolter)
+
+</br>
+
+# 🤝 StartUp
+
+- O programa ENTRA21 oferece capacitação para a área da tecnologia por meio de diversos apoiadores que investem e acreditam em seus selecionados, buscando um crescimento nesta parte importante da economia de Santa Catarina. O projeto distribui conhecimento aos seus alunos, mas também gera experiência, o que é o mais importante para agregar em seu currículo.
+
+- Para participar basta inscrever-se e então passar pelo processo seletivo. Todas as informações sobre o programa você encontra no próprio site do [ENTRA21](https://www.entra21.com.br/)!
+
+- Como citado, existem diversos colaboradores, entre eles estão:
+
+![investidores](/img/investidores.JPG)
+![apoiadores](/img/apoiadoras.JPG)
+
 
 # ⚙️ Ferramentas Utilizadas
 
-## **TRELLO**
+## TRELLO
 
 
-Ferramenta para auxiliar na aplicação das metodologias ágeis. Perfeito para gerenciar projetos e agilizar o trabalho, gerando cada vez mais produtividade. [Acesse aqui](https://trello.com/).
+- Ferramenta para auxiliar na aplicação das metodologias ágeis. Perfeito para gerenciar projetos e agilizar o trabalho, gerando cada vez mais produtividade. [Acesse aqui](https://trello.com/).
 
-## **GIT**
-
-
-Sistema gratuito de controle de versão. Crie repositórios locais. [Acesse aqui](https://git-scm.com/).
-
-## **GITHUB**
+## GIT
 
 
-Repositório na nuvem para armazanar seus códigos e arquivos (clona seu repositório local). [Acesse aqui](https://github.com/). Se preferir, pode fazer download do [GitHub Desktop](https://desktop.github.com/).
+- Sistema gratuito de controle de versão. Crie repositórios locais. [Acesse aqui](https://git-scm.com/).
 
-## **VISUAL STUDIO CODE**
-
-
-IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta diversas linguagens, permite instalar extensões e é compatível com o GIT. [Acesse aqui](https://code.visualstudio.com/) ou faça [Download](https://code.visualstudio.com/download).
-
-## **PORTUGOL WEBSTUDIO**
+## GITHUB
 
 
-IDE totalmente online (via navegador) para desenvolver seus códigos e algorítmos em Portugol. [Acesse aqui](https://portugol-webstudio.cubos.io/ide).
+- Repositório na nuvem para armazanar seus códigos e arquivos (clona seu repositório local). [Acesse aqui](https://github.com/). Se preferir, pode fazer download do [GitHub Desktop](https://desktop.github.com/).
 
-# 🔎 Referências de Pesquisa e Publicações
-</br>
+## VISUAL STUDIO CODE
+
+
+- IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta diversas linguagens, permite instalar extensões e é compatível com o GIT. [Acesse aqui](https://code.visualstudio.com/) ou faça [Download](https://code.visualstudio.com/download).
+
+## PORTUGOL WEBSTUDIO
+
+
+- IDE totalmente online (via navegador) para desenvolver seus códigos e algorítmos em Portugol. [Acesse aqui](https://portugol-webstudio.cubos.io/ide).
+
 </br>
 
 # 🏁 Sprints do Curso e Conteúdos
@@ -82,5 +98,25 @@ IDE totalmente online (via navegador) para desenvolver seus códigos e algorítm
 ## [SPRINT 02 - Lógica de Programação](/sprints/sprint02.md)
 
 ## [ENGLISH Classes](/sprints/english.md)
+</br>
+</br>
 
+# 🔎 Referências de Pesquisa e Publicações
 
+### **Links**
+
+- [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0&t=6s)
+- [Introdução ao Git e o GitHub.pdf](https://github.com/Machado-tec/e2122-php-geral/files/8628365/Introducao.ao.Git.e.o.GitHub.pdf) By Jaqueline Peres Altismo
+- [Ementa-PHP.pdf](https://github.com/Machado-tec/e2122-php-geral/files/8628363/Ementa-PHP.pdf)
+- [GoogleDrive do Curso](https://drive.google.com/drive/folders/1vWKH88iZ7QkIiVXtKNCI3P4pvk1pdYhG?usp=sharing)
+
+### **Livros**
+
+- [Controlando versões com Git e Github](https://www.amazon.com.br/Controlando-Vers%C3%B5es-com-Git-GitHub/dp/8566250532)
+- [O Guia do Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-2.0.pdf)
+- [Algoritmos Logica para Desenvolvimento de programação de computadores](https://www.amazon.com.br/Algoritmos-Funcionais-Introdu%C3%A7%C3%A3o-minimalista-programa%C3%A7%C3%A3o-ebook/dp/B08M48DR48/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Curso de logica de Programação](https://www.amazon.com.br/Curso-l%C3%B3gica-programa%C3%A7%C3%A3o-Ricardo-Said-ebook/dp/B00DN8P73G)
+
+### **Playlist Aulas Completas**
+
+- [Playlist do Youtube](https://youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w)
