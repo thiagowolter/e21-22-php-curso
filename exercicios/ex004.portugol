@@ -27,3 +27,26 @@ programa {
 até que a multiplicação resulte em 1000
 - ao sair informe o usuario que o resultado é igual a 1000 e aborte o laço. 
 - utilize o recurso de funcões() para este Exercicio
+
+
+
+programa {
+  	funcao inicio() {
+  		inteiro n1 = 0
+  		inteiro n2 = 0
+  		inteiro resultado = 0
+
+    	enquanto (resultado != 1000){
+
+        	escreva("Digite o primeiro número: ")
+        	leia(n1)
+        	escreva("Digite o segundo número: ")
+        	leia(n2)
+
+        	resultado = n1 * n2
+        	escreva("O resultado é ",resultado,"\n")
+    	}
+
+   		escreva("Seu numero = ", resultado,", Parabéns!")
+	}	
+}

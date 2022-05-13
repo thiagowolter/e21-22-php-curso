@@ -191,4 +191,21 @@ R: Dificuldades em alguns exercicios. </br>
 - [Exercicio 003](/exercicios/ex003.portugol)
 - [Exercicio 004](/exercicios/ex004.portugol)
 
-[voltar](/README.md)
+## 12/05
+
+### Daily Scrum
+
+- O que fiz ontem? </br>
+R: Exercícios em Portugol </br>
+- O que vamos fazer hoje? </br>
+R: Continuação de exercícios
+- O que me impede/impediu? </br>
+R: Dificuldades em alguns exercicios. </br>
+
+### Exercicios em portugol:
+
+1b
+2b
+3b
+4b
+

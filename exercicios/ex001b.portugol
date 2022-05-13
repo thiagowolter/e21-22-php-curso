@@ -1,0 +1,97 @@
+
+#Exercicio: 001b: Versão 001.
+
+    Calcule a area de um retangulo.
+    Sem solicitar dados ao usuário.
+    Para isto defina as variáveis: ladoA, LadoB, resultado. 
+    Imprima o resultado.
+
+    integer ladoA, ladoB, resultado 
+    ladoA = 60
+    ladoB = 80
+    resultado = ladoA x ladoB
+    escreva(resutlado)
+
+    f1 Dados:Coleta
+    f2 BE:Processamento
+    f3 FE:Impressao
+
+    programa {
+	    funcao inicio() {
+		    inteiro ladoA = 60, ladoB = 80, resultado
+		
+		    resultado = ladoA * ladoB
+		    escreva("O resultado é ",resultado)
+	    }
+    }
+
+#Exercicio: 001b: versão 002.
+
+    Calculo o perimetro de um retangulo.
+    Utilize as mesmas variáveis da versão 001.
+
+    programa {
+	    funcao inicio() {
+		    inteiro ladoA = 60, ladoB = 80, resultado
+		
+		    resultado = (ladoA + ladoB) * 2
+		    escreva("O resultado é ",resultado,"m")
+	    }
+    }
+
+#Exercicio: 001b: versão 003.
+
+    Solicite os dados do usuário para calcular os dados do retangulo.
+    Utilize as mesmas variaveis. 
+    Imprima o resultado da área do retangulo e o perimetro do retangulo.
+
+programa {
+	funcao inicio() {
+		inteiro ladoA, ladoB, resultadoA, resultadoP
+		
+		escreva("Informe lado A: ")
+		leia(ladoA)
+		escreva("Informe lado B: ")
+		leia(ladoB)
+		
+		resultadoP = (ladoA + ladoB) * 2
+		escreva("O perímetro é ",resultadoP,"m")
+		
+		resultadoA = ladoA * ladoB
+		escreva("\nA área é ",resultadoA,"m2")
+	}
+}
+
+#Exercicio: 001b: versão 004. 
+
+    Adicione uma condicional simples. 
+    Utilize os resultados acima e faça o seguinte teste:
+    Informe em uma condicional simples quem é maior, perimetro ou a area. 
+    (vamos descondiderar as unidades m2 e mlinear), apenas pensar nas unidades.
+
+
+programa {
+	funcao inicio() {
+		inteiro ladoA, ladoB, resultadoA, resultadoP
+		
+		escreva("Informe lado A: ")
+		leia(ladoA)
+		escreva("Informe lado B: ")
+		leia(ladoB)
+		
+		resultadoP = (ladoA + ladoB) * 2
+		escreva("O perímetro é ",resultadoP,"m")
+		
+		resultadoA = ladoA * ladoB
+		escreva("\nA área é ",resultadoA,"m2")
+		
+		se (resultadoP > resultadoA){
+		    escreva("\nO perímetro é maior")
+		}
+		senao 
+		    escreva("\nA área é maior")
+	}
+}
+
+
+
