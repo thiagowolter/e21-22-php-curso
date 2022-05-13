@@ -3,7 +3,25 @@
 
     Crie uma funcao que imprima uma mensagem ao ser chamada.
 
-    
+    programa()
+
+    dados = mensagem de entrada
+    Processamento = funcao
+    Impressao = mensagem exibida
+
+
+programa {
+	funcao inicio() {
+	   
+	 mensagem()
+	    
+	}
+	
+	funcao mensagem(){
+	    escreva("Olá bom dia")
+	}
+}
+
 
 
 

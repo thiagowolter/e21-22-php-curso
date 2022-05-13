@@ -3,3 +3,34 @@
     Solicite ao usuario informar um numero inteiro entre 1 e 3
     utilize case para imprimir Maça, para 1, Pera para 2, e Melancia para 3. 
 
+    programa()
+
+    dados = numero inteiro entre 1 e 3
+    processamento = case
+    impressao = Maça pera ou Melancia
+
+
+    programa {
+	funcao inicio() {
+		inteiro numero
+		
+		escreva ("Escolha um numero entre 1 e 3: ")
+		leia(numero)
+		
+		escolha (numero){
+		    caso 1:
+		        escreva("opção escolhida é: Maça")
+		        pare
+		    caso 2:
+		        escreva("opção escolhida é: Pera")
+		        pare
+		    caso 3:
+		        escreva("opção escolhida é: Melancia")
+		        pare
+		    caso contrario: 
+                escreva ("Escolha uma opção válida !")
+		}
+	}
+}
+
+

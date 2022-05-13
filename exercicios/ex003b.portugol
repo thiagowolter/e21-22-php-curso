@@ -15,7 +15,49 @@
         50 por cento do valor informado é: [RESULTADO]
 
     
+programa (){
+    inteiro x
+    real res
+    pedir dados
+
+    calcular
+    inserir aqui uma condicional 
+
+    imprimir o resultado
+
+}
 
 
 
+programa {
+	funcao inicio() {
+		real x, res
+		
+		escreva("Informe um numero: ")
+		leia(x)
+		
+		res = x / 2
+		
+		se(x < 0){
+		    escreva("Numero negativo")
+		}
+        senao se (x >= 0 e x <= 9){
+            escreva("Numero entre 0 e 9")
+        }
+        senao se (x > 9 e x < 20){
+            escreva("NUmero entre 10 e 19")
+        }
+        senao se (x > 19 e x <30){
+           escreva ("Numero entre 20 e 29") 
+        }
+        senao se (x > 29 e x <40 ){
+            escreva ("Numero entre 30 e 39")
+        }
+        senao {
+            escreva ("Numero 40 ou maior")
+        }
+        
+        escreva ("\nMetade do valor é igual a ",res,"!")
+	}
+}
 

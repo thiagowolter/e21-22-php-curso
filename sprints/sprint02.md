@@ -204,8 +204,28 @@ R: Dificuldades em alguns exercicios. </br>
 
 ### Exercicios em portugol:
 
-1b
-2b
-3b
-4b
+- [Exercicio 001B](/exercicios/ex001b.portugol)
+- [Exercicio 002B](/exercicios/ex002b.portugol)
+- [Exercicio 003B](/exercicios/ex003b.portugol)
+- [Exercicio 004B](/exercicios/ex004b.portugol)
+- [Exercicio 005B](/exercicios/ex005b.portugol)
+
+## 13/05
+
+### Daily Scrum
+
+- O que fiz ontem? </br>
+R: Exercícios em Portugol </br>
+- O que vamos fazer hoje? </br>
+R: Continuação de exercícios
+- O que me impede/impediu? </br>
+R: Exercicios resolvidos ate agora. </br>
+
+### Ansiedade
+
+ - Pensar antes de agir (programar)
+
+### Continuação
+
+- Continuação dos [Exercícios em portugol](#exercicios-em-portugol-1)
 
