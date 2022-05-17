@@ -71,23 +71,29 @@ durante o treinamento e deverá ser mantido até o final.
 
 ## GIT
 
-
 - Sistema gratuito de controle de versão. Crie repositórios locais. [Acesse aqui](https://git-scm.com/).
 
 ## GITHUB
-
 
 - Repositório na nuvem para armazanar seus códigos e arquivos (clona seu repositório local). [Acesse aqui](https://github.com/). Se preferir, pode fazer download do [GitHub Desktop](https://desktop.github.com/).
 
 ## VISUAL STUDIO CODE
 
-
 - IDE gratuito e Open Scource. Extremamente versátil e customizável, suporta diversas linguagens, permite instalar extensões e é compatível com o GIT. [Acesse aqui](https://code.visualstudio.com/) ou faça [Download](https://code.visualstudio.com/download).
 
 ## PORTUGOL WEBSTUDIO
 
-
 - IDE totalmente online (via navegador) para desenvolver seus códigos e algorítmos em Portugol. [Acesse aqui](https://portugol-webstudio.cubos.io/ide).
+
+## XAMPP
+
+- Ambiente de desenvolvimento para PHP. O XAMPP possui a distribuição Apache com MySQL e Perl integrados. Ferramenta de fácil utilização. [Acesse aqui](https://www.apachefriends.org/pt_br/index.html).
+
+## Ferramentas de Comunicação
+
+- [Discord](https://discord.com/)
+- [Google Meet](https://meet.google.com/)
+- [Telegram](https://web.telegram.org/z/)
 
 </br>
 

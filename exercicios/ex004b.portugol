@@ -10,18 +10,33 @@
     Impressao = mensagem exibida
 
 
+
 programa {
+
+	funcao mensagem(cadeia msg){
+	    escreva(msg)
+	}
 	funcao inicio() {
 	   
-	 mensagem()
-	    
+	 	mensagem("Ola bom dia")
+	 	mensagem("ola boa noite")  
 	}
-	
-	funcao mensagem(){
-	    escreva("Olá bom dia")
-	}
+	escreva("primeiro print do programa")
 }
 
 
+
+
+
+programa {
+    funcao atividade() {
+        cadeia mensagem
+        mensagem = ("bom dia")
+        escreva(mensagem)
+    }
+ 	funcao inicio() {
+     	atividade()
+	}
+}
 
 

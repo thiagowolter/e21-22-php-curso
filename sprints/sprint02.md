@@ -229,3 +229,19 @@ R: Exercicios resolvidos ate agora. </br>
 
 - Continuação dos [Exercícios em portugol](#exercicios-em-portugol-1)
 
+## 16/05
+
+### Daily Scrum
+
+- O que fiz ontem? </br>
+R: Exercícios em Portugol </br>
+- O que vamos fazer hoje? </br>
+R: Revisão e instalação de novas ferramentas
+- O que me impede/impediu? </br>
+R: Sem impedimentos </br>
+
+## Instalação de novas ferramentas
+
+- Discord instalado para uma nova forma de comunicação com melhor qualidade de imagem e som.
+
+- Instalação do ambiente de desenvolvimento XAMPP, juntamente com APACHE, MySQL, PHP e PERL.
