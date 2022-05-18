@@ -245,3 +245,34 @@ R: Sem impedimentos </br>
 - Discord instalado para uma nova forma de comunicação com melhor qualidade de imagem e som.
 
 - Instalação do ambiente de desenvolvimento XAMPP, juntamente com APACHE, MySQL, PHP e PERL.
+
+## 18/05
+
+### Daily Scrum
+
+- O que fiz ontem? </br>
+R: instalação de ferramentas </br>
+- O que vamos fazer hoje? </br>
+R: Lógica e atividades em PHP
+- O que me impede/impediu? </br>
+R: Sem impedimentos </br>
+
+### Início do PHP
+
+- Preparação do ambiente PHP
+
+- Verificar versão do PHP no terminal
+
+```
+  php --version
+```
+
+- Acessar o arquivo no Browser
+
+```
+php -S 127.0.0.1:8080
+```
+
+- Realização das primeiras [atividades em PHP](/www/index.php) 
+
+
