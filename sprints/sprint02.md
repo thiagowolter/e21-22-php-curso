@@ -261,6 +261,8 @@ R: Sem impedimentos </br>
 
 - Preparação do ambiente PHP
 
+- Primeiro acesso a um servidor WEB
+
 - Verificar versão do PHP no terminal
 
 ```
