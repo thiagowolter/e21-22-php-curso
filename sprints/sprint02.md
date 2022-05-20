@@ -278,3 +278,17 @@ php -S 127.0.0.1:8080
 - Realização das primeiras [atividades em PHP](/www/index.php) 
 
 
+## 19
+
+var
+aray
+obj
+
+exe
+
+## 20
+
+continuacao exer
+
+variaveis super globais
+
