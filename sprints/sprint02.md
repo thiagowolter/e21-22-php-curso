@@ -280,20 +280,17 @@ php -S 127.0.0.1:8080
 
 ## 19/05
 
-### PHP Info
+### PHP
 
-### var 
-https://www.php.net/manual/pt_BR/language.variables.php
-### aray
-https://www.php.net/manual/pt_BR/language.types.array.php
-### obj
-https://www.php.net/manual/pt_BR/language.types.object.php
+- [Variáveis](https://www.php.net/manual/pt_BR/language.variables.php)
+- [Arrays](https://www.php.net/manual/pt_BR/language.types.array.php)
+- [Objetos](https://www.php.net/manual/pt_BR/language.types.object.php)
 
 exe
 
 ## 20/05
 
-continuacao exer
+ - Continuação dos Exemplos.
 
 ### Variáveis SuperGlobais
 
