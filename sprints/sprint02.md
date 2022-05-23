@@ -186,10 +186,10 @@ R: Dificuldades em alguns exercicios. </br>
 
 ### Exercicios em portugol:
 
-- [Exercicio 001](/exercicios/ex001.portugol)
-- [Exercicio 002](/exercicios/ex002.portugol)
-- [Exercicio 003](/exercicios/ex003.portugol)
-- [Exercicio 004](/exercicios/ex004.portugol)
+- [Exercicio 001](/exercicios/exercicios_ptgol/ex001.portugol)
+- [Exercicio 002](/exercicios/exercicios_ptgol/ex002.portugol)
+- [Exercicio 003](/exercicios/exercicios_ptgol/ex003.portugol)
+- [Exercicio 004](/exercicios/exercicios_ptgol/ex004.portugol)
 
 ## 12/05
 
@@ -204,11 +204,11 @@ R: Dificuldades em alguns exercicios. </br>
 
 ### Exercicios em portugol:
 
-- [Exercicio 001B](/exercicios/ex001b.portugol)
-- [Exercicio 002B](/exercicios/ex002b.portugol)
-- [Exercicio 003B](/exercicios/ex003b.portugol)
-- [Exercicio 004B](/exercicios/ex004b.portugol)
-- [Exercicio 005B](/exercicios/ex005b.portugol)
+- [Exercicio 001B](/exercicios/exercicios_ptgol/ex001b.portugol)
+- [Exercicio 002B](/exercicios/exercicios_ptgol/ex002b.portugol)
+- [Exercicio 003B](/exercicios/exercicios_ptgol/ex003b.portugol)
+- [Exercicio 004B](/exercicios/exercicios_ptgol/ex004b.portugol)
+- [Exercicio 005B](/exercicios/exercicios_ptgol/ex005b.portugol)
 
 ## 13/05
 
@@ -275,20 +275,55 @@ R: Sem impedimentos </br>
 php -S 127.0.0.1:8080
 ```
 
-- Realização das primeiras [atividades em PHP](/www/index.php) 
+- Realização dos primeiros [exemplos em PHP](/www/index.php) 
 
 
-## 19
+## 19/05
 
-var
-aray
-obj
+### PHP Info
+
+### var 
+https://www.php.net/manual/pt_BR/language.variables.php
+### aray
+https://www.php.net/manual/pt_BR/language.types.array.php
+### obj
+https://www.php.net/manual/pt_BR/language.types.object.php
 
 exe
 
-## 20
+## 20/05
 
 continuacao exer
 
-variaveis super globais
+### Variáveis SuperGlobais
 
+- São variáveis pré-definidas do PHP
+
+```
+- $GLOBALS
+- $_SERVER
+- $_GET
+- $_POST
+- $_FILES
+- $_COOKIE
+- $_SESSION
+- $_REQUEST
+- $_ENV
+```
+
+## 23/05
+
+
+### PHP
+
+- [Constantes](https://www.php.net/manual/pt_BR/language.constants.php)
+
+### Operadores lógicos em PHP
+
+![Operadores Lógicos](/img/op_log.JPG)
+
+- [Todos Operadores](https://www.php.net/manual/pt_BR/language.operators.php) do PHP.
+
+### Documentação completa do PHP
+
+- [Documentação do PHP](https://www.php.net/manual/pt_BR/)

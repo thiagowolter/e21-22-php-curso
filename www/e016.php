@@ -2,6 +2,6 @@
 
 <?php 
 var_dump($_SERVER);
-echo "<br><BR>"
-
+echo "<br><BR>";
+var_dump($_SERVER["SHELL"]);
 ?>
