@@ -6,7 +6,9 @@
     $nomes = array('Thiago','Jose','Pedro','Gabriel','Andrea');
 
     var_dump($nomes);
-    echo '<br>';
+    echo '<br><br>';
     echo 'O numero de elementos na lista é: ' . sizeof($nomes);
+    echo '<br><br>';
+    echo 'O terceiro elemento é: ' . $nomes[2];
     
 ?>

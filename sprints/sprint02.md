@@ -324,3 +324,9 @@ exe
 ### Documentação completa do PHP
 
 - [Documentação do PHP](https://www.php.net/manual/pt_BR/)
+
+atividades
+
+## 25/05
+
+continuacao de atividades

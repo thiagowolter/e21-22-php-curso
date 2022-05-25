@@ -5,7 +5,7 @@
 <html>
     <body>
         <form method="post">
-            Informe um numero: <input type="number" name="snumber">
+            Informe um numero: <input type="floatval" name="snumber">
             <input type="submit">
         </form>
     </body>

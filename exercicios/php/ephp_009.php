@@ -5,5 +5,7 @@
 <?php
     $nomes = array('Thiago','Jose','Pedro','Gabriel','Andrea');
 
-    print_r($nomes);
+    foreach ($nomes as $nome) {
+        echo '<br> - ', $nome;
+    }
 ?>
