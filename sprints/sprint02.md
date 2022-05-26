@@ -332,3 +332,7 @@ exe
 ## 25/05
 
  - Continuação das [ATIVIDADES](/exercicios/php/index.mdv)
+
+ ## 26/05
+
+ - Continuação e correção das [ATIVIDADES](/exercicios/php/index.mdv)

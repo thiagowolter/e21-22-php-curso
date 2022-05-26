@@ -5,4 +5,9 @@
 <?php 
 $a = 'Ola Mundo';
 echo $a;
+
+function hello(){
+    echo '<br>ola mundo com funcao';
+}
+hello()
 ?>
