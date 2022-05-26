@@ -325,8 +325,10 @@ exe
 
 - [Documentação do PHP](https://www.php.net/manual/pt_BR/)
 
-atividades
+### Atividades em PHP
+
+[LISTA DE ATIVIDADES](/exercicios/php/index.md)
 
 ## 25/05
 
-continuacao de atividades
+ - Continuação das [ATIVIDADES](/exercicios/php/index.mdv)
