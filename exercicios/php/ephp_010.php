@@ -5,7 +5,7 @@
 <?php
     $nomes = array('Thiago','Jose','Pedro','Gabriel','Andrea');
 
-    var_dump($nomes);
+    echo 'o tamanho da lista nomes é: ', var_dump($nomes);
     echo '<br><br>';
     echo 'O numero de elementos na lista é: ' . sizeof($nomes);
     echo '<br><br>';

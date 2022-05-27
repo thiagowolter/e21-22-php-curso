@@ -13,6 +13,7 @@
 - [EXERCICIO 009](/exercicios/php/ephp_009.php)
 - [EXERCICIO 010](/exercicios/php/ephp_010.php)
 - [EXERCICIO 011](/exercicios/php/ephp_011.php)
+- [EXERCICIO 011B](/exercicios/php/ephp_011b.php)
 - [EXERCICIO 012](/exercicios/php/ephp_012.php)
 - [EXERCICIO 013](/exercicios/php/ephp_013.php)
 - [EXERCICIO 014](/exercicios/php/ephp_014.php)

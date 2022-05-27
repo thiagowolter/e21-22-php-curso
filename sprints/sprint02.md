@@ -336,3 +336,13 @@ exe
  ## 26/05
 
  - Continuação e correção das [ATIVIDADES](/exercicios/php/index.mdv)
+
+ ## 27/05
+
+ - Alterar todas as variaveis em uma só vez:
+
+ ```
+CTRL + F2
+ ```
+
+ - Desenvolvimentos de novas versões do [exercício](/exercicios/php/index.md)011.php
