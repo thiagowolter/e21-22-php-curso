@@ -346,3 +346,11 @@ CTRL + F2
  ```
 
  - Desenvolvimentos de novas versões do [exercício](/exercicios/php/index.md)011.php
+
+ ## 30/05
+
+  - Continuação das versões do [exercício](/exercicios/php/index.md)011.php
+
+  - [GET](https://www.php.net/manual/pt_BR/reserved.variables.get)
+
+  - [POST](https://www.php.net/manual/pt_BR/reserved.variables.post.php)

@@ -115,6 +115,7 @@ durante o treinamento e deverá ser mantido até o final.
 - [Introdução ao Git e o GitHub.pdf](https://github.com/Machado-tec/e2122-php-geral/files/8628365/Introducao.ao.Git.e.o.GitHub.pdf) By Jaqueline Peres Altismo
 - [Ementa-PHP.pdf](https://github.com/Machado-tec/e2122-php-geral/files/8628363/Ementa-PHP.pdf)
 - [GoogleDrive do Curso](https://drive.google.com/drive/folders/1vWKH88iZ7QkIiVXtKNCI3P4pvk1pdYhG?usp=sharing)
+- [Manual do PHP](https://www.php.net/manual/pt_BR/)
 
 ### **Livros**
 
