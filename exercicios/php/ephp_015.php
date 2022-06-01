@@ -58,7 +58,7 @@ if($num1 >= 100 or $num2 >= 100){
 }
 $lista = array(10, 100, 1000, 10000, 100000);
 
-foreach($lista as $indice => $copiaIndice) {
+foreach($lista as $indice  => $copiaIndice) {
     if($lista[$indice] == $num1) {
         echo '<br>O primeiro número corresponde a um dos indices do array "Lista"';
     }

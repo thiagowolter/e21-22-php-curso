@@ -354,3 +354,11 @@ CTRL + F2
   - [GET](https://www.php.net/manual/pt_BR/reserved.variables.get)
 
   - [POST](https://www.php.net/manual/pt_BR/reserved.variables.post.php)
+
+  ## 01/06
+
+  - Comandos CSS
+
+  - Comandos HTML
+
+  - Alterações no arquivo "index.php" da pasta [Exercícios](/exercicios/php/)
