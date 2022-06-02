@@ -362,3 +362,7 @@ CTRL + F2
   - Comandos HTML
 
   - Alterações no arquivo "index.php" da pasta [Exercícios](/exercicios/php/)
+
+  ## 20/06
+
+  - Video aulas explicativas, com atividades.
