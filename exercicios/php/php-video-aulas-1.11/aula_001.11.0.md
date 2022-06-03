@@ -21,3 +21,6 @@
 [Arquivo exemplos](aula_001.11.4.php)
 
 
+# Expressoes Lambda ou Funções Anonimas
+[AULA PHP REVISÃO VIDEO 013 ](https://youtu.be/QCZBd4q5L8g)
+[Arquivo exemplos](aula_001.11.5.php)

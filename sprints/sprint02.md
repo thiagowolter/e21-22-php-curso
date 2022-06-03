@@ -363,6 +363,29 @@ CTRL + F2
 
   - Alterações no arquivo "index.php" da pasta [Exercícios](/exercicios/php/)
 
-  ## 20/06
+  ## 02/06
 
   - Video aulas explicativas, com atividades.
+
+   [php video aulas 1.09](/exercicios/php/php-video-aulas-1.09/aula_001.9.0.md)
+
+   [php video aulas 1.10](/exercicios/php/php-video-aulas-1.10/aula_001.10.0.md)
+
+  ## 03/06
+
+  - Continuação das vídeo aulas
+
+   [php video aulas 1.11](/exercicios/php/php-video-aulas-1.11/aula_001.11.0.md)
+
+  - Correção de Exercicios
+
+  ### Function (passagem de parametros)
+
+  - By reference
+  ```
+  function(&$variavel)
+  ```
+  - By value
+  ```
+  function($variavel)
+  ```

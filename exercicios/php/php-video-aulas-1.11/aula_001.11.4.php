@@ -16,7 +16,7 @@ function incrementa($variavel,$valor){
 
 $a = 10 ;
 incrementa($a,20);
-echo $a; 
+echo '<br> o valor é ' , $a; 
 
 // Resultado = 10:
 ?>
@@ -28,7 +28,7 @@ function incrementa2(&$variavel,$valor){
 
 $a = 10 ;
 incrementa2($a,20);
-echo $a;
+echo '<br> o valor é ' , $a;
 // Me passem na aula o valor do segundo $a 
 
 ?>
@@ -42,7 +42,7 @@ function incrementa3(&$variavel,$valor=40){
 
 $a = 10 ;
 incrementa3($a);
-echo $a;
+echo '<br>o valor é ' , $a;
 // RESULTADO SERÁ 50 
 ?>
 

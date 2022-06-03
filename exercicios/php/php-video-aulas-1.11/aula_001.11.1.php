@@ -22,10 +22,12 @@ Retorna um dado conforme os parametros enviados.  -->
         $valor = $arg1 + $arg2 + $arg3 + $arg4;
         return $valor; 
     }
+    echo soma(1,2,3,4);
+    echo '<br>==============================';
     function imc($peso,$altura){
         return $peso / ($altura * $altura);
     }
-    echo "O indice de massa corporal do prof é " . imc(119,1.90);
+    echo "<br>O indice de massa corporal é " . imc(65,1.75);
     
 ?>
 

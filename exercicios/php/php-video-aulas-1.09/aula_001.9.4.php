@@ -16,7 +16,7 @@ CASE A:
 
 <?php
 $i = 10;
-switch ($variavel) {
+switch ($i) {
     case 10:
         print "entrou 10";
         break;
