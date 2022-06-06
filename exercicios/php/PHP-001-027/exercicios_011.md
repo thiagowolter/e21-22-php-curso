@@ -43,3 +43,17 @@ ex.:
     3.  Adicione um elemento na segunda posição da lista nomes. 
     4.  Remova o elemento 'Carlos1 da lista nomes. 
     5.  Mostre o segundo, terceiro, quarto elemento da lista nomes. Mostre o ultimo elemento da lista. 
+
+=====================================================================================================
+
+28. Crie um cadastro de Pessoas com 5 pessoas utilizando Array. Cada pessoa deve ter os seguintes valores cadastrados: Nome, idade, Cep. A Chave primeria da Array será o numero 1,2,3,4,5.
+
+29. Utilizando o exercicio acima, (mantenha os 5 cadastros ja existentes e) faça um formulario permita insersão de novas pessoas.
+
+30. Possibilite alterar um valor em seu banco.
+
+31. Inclua um botão excluir um item da sua array.
+
+32. Inclua um campo Saldo em Carteira para cada pessoa, imprima o total em carteira de todo o cadastro.
+
+33. Imprima o numero total de pessoas em seu cadastro no rodapé da pagina.

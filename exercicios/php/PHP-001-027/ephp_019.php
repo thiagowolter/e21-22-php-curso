@@ -13,15 +13,21 @@
     </html>
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
-    $i = $_POST['inicio'];
-    $f = $_POST['fim'];
+    $inicio = $_POST['inicio'];
+    $fim = $_POST['fim'];
     echo '<br>';
-    echo 'numero inicial = ' . $i;
-    echo '<br>numero final = ' . $f;
+    echo 'numero inicial = ' . $inicio;
+    echo '<br>numero final = ' . $fim;
 }
+if($inicio < $fim){
     echo '<br> Contagem entre os numeros é: ';
-    while(++$i < $f){
-        
-        echo '<br> ', $i;
+    for ($i = $inicio; $i <= $fim; $i++){
+        echo '<br> '. $i;
     }
+}else{
+    echo '<br> Contagem entre os numeros é: ';
+    for ($i = $inicio; $i >= $fim; $i--){
+        echo '<br> '. $i;
+    }
+}
 ?> 

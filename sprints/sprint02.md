@@ -327,15 +327,15 @@ exe
 
 ### Atividades em PHP
 
-[LISTA DE ATIVIDADES](/exercicios/php/index.md)
+[LISTA DE ATIVIDADES](/exercicios/php/PHP-001-027/index.md)
 
 ## 25/05
 
- - Continuação das [ATIVIDADES](/exercicios/php/index.mdv)
+ - Continuação das [ATIVIDADES](/exercicios/php/PHP-001-027/index.md)
 
  ## 26/05
 
- - Continuação e correção das [ATIVIDADES](/exercicios/php/index.mdv)
+ - Continuação e correção das [ATIVIDADES](/exercicios/php/PHP-001-027/index.md)
 
  ## 27/05
 
@@ -345,7 +345,7 @@ exe
 CTRL + F2
  ```
 
- - Desenvolvimentos de novas versões do [exercício](/exercicios/php/index.md)011.php
+ - Desenvolvimentos de novas versões do [exercício](/exercicios/php/PHP-001-027/index.md)011.php
 
  ## 30/05
 
@@ -389,3 +389,10 @@ CTRL + F2
   ```
   function($variavel)
   ```
+
+## 06/06
+
+- Finalização da correção das atividades [001 a 027](/exercicios/php/PHP-001-027/index.md).
+
+- Inicio e conversa sobre novas atividades. Exercicios de [028 a 046](/exercicios/php/PHP-028-046/index.md)
+
