@@ -396,3 +396,13 @@ CTRL + F2
 
 - Inicio e conversa sobre novas atividades. Exercicios de [028 a 046](/exercicios/php/PHP-028-046/index.md)
 
+## 08/06
+
+ ### Arrays Multidimensionais 
+
+ - A multidimensional array is an array containing one or more arrays.
+
+- PHP supports multidimensional arrays that are two, three, four, five, or more levels deep. However, arrays more than three levels deep are hard to manage for most people. 
+
+- by [w3schools](https://www.w3schools.com/php/php_arrays_multidimensional.asp).
+
