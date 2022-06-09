@@ -406,3 +406,11 @@ CTRL + F2
 
 - by [w3schools](https://www.w3schools.com/php/php_arrays_multidimensional.asp).
 
+## 09/06
+
+ - Desdobramento de ARRAYS: Chave recebe Valor ( Key => Value):
+
+```
+$ARRAY AS $CHAVE => $VALOR
+```
+
