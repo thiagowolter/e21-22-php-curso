@@ -1,5 +1,7 @@
-
 <?php
+
+
+
 $cadastro = array(
     "1" => array("nome" => "Adriano",
         "idade" => "81",
