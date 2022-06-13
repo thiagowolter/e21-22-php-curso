@@ -414,3 +414,13 @@ CTRL + F2
 $ARRAY AS $CHAVE => $VALOR
 ```
 
+## 13/06
+
+ - Continuação das atividades [028PHP](/exercicios/php/PHP-028-046/index.md)
+
+ - Início de sessão;
+
+ ```
+session_start();
+ ```
+

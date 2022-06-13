@@ -23,14 +23,14 @@ $cadastro = array(
         "CEP" => "89120-000",
     ),
     "5" => array(
-        "Nome" => "Maria",
-        "Idade" => "35",
+        "nome" => "Maria",
+        "idade" => "35",
         "CEP" => "11110-000",
     ),
 
 );
 
-
+$b = '<br>'
 
 // var_dump($cadastro);
 // var_dump($array['1']['nome']);
