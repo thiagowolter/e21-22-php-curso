@@ -424,3 +424,9 @@ $ARRAY AS $CHAVE => $VALOR
 session_start();
  ```
 
+ ## 15/06
+
+ - Array Splice
+
+ - Continuação das atividades [028PHP](/exercicios/php/PHP-028-046/index.md)
+
