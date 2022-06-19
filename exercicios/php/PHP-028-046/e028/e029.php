@@ -1,15 +1,15 @@
 <?php
 require_once('e028.php');
-
 session_start();
-
-
 ?>
+
+<h1>CADASTRO DE PESSOAS</h1>
 
 <form action="" method="POST">
     Nome: <input type="text" name="nome" placeholder="nome">
     Idade: <input type="number" name="idade" placeholder="idade">
-    CEP: <input type="text" name="CEP" placeholder="CEP">
+    CEP: <input type="text" name="CEP" placeholder="00000-000">
+    Saldo: <input type="text" name="saldo" placeholder="R$ 00,00">
     <input type="submit" name="cadastrar" value="Cadastrar">
 </form>
 
@@ -21,18 +21,18 @@ session_start();
 if (isset($_POST['restaurar'])) {        
     $_SESSION['cadastro'] = $cadastro;
 }
-// 031. Excluir do Cadastro
- 
 
  if (isset($_POST['cadastrar'])) {
     $nome=$_POST['nome'];
     $idade=$_POST['idade'];
     $cep=$_POST['CEP'];
+    $saldo=$_POST['saldo'];
 
     $cadastro_novo_cadastro=array(
             "nome" => $nome,
             "idade" => $idade,
-            "CEP" => $cep
+            "CEP" => $cep,
+            "saldo" => $saldo
     );      
     array_push($_SESSION['cadastro'], $cadastro_novo_cadastro); 
 }
@@ -40,10 +40,10 @@ if (isset($_POST['restaurar'])) {
 foreach($_SESSION['cadastro'] as $indice => $pessoa){
     echo '<br>';
     echo "Nome: " . $pessoa['nome'] .$b;
-    echo "idade: " . $pessoa['idade'] . $b;
+    echo "Idade: " . $pessoa['idade'] . $b;
     echo "CEP: " . $pessoa['CEP'] . $b;
+    include('e032saldo.php');
     echo "<a href=e031apagar.php?Delete=" . $indice . "&Nome=" . $pessoa['nome'] . "&Idade=" . $pessoa['idade'] . "&CEP=". $pessoa['CEP'] . "><button>Excluir Cadastro</button></a>" . $b;
-    var_dump($indice) ; echo $b;
     }
 
 ?>
@@ -51,6 +51,14 @@ foreach($_SESSION['cadastro'] as $indice => $pessoa){
 <form action="" method="POST">
     <input type="submit" name="restaurar" value="Restaurar Cadastro">
 </form>
+
+<footer>
+<?php
+include_once('e033total.php');
+include_once('e034media.php');
+?>
+</footer>
+
 
 
 

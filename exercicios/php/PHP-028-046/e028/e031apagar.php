@@ -9,7 +9,7 @@ if ($_GET['Nome']) {
     array_splice($_SESSION['cadastro'],($key), 1);
     // echo "a chave : " . $_GET['Nome'] . " foi excluida" . $b;
     echo $b . "Retornando em 3 segundos ...";    
-    header("refresh: 5;e029.php");
+    header("refresh: 2;e029.php");
 }
 
 
