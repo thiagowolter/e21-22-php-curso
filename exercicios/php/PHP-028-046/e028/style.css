@@ -1,0 +1,48 @@
+footer
+{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background-color: red;
+    color: #FFF;
+    width: 100%;
+    height: 50px;    
+    text-align: center;
+    line-height: 50px;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav
+{
+    text-transform: uppercase;
+    background-color: rgb(255, 34, 34);
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFF;
+    text-align: center;
+}
+.cad{
+    margin: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn_rest
+{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.btn_cad
+{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px; 
+}
+.list
+{
+    margin: 5px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
