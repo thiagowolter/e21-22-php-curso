@@ -1,3 +1,8 @@
+<?php
+require_once 'head.php';
+require_once 'base.php';
+?>
+
 <form action="" method="POST">
     <fieldset>
         <label>Nome:</label>
@@ -9,7 +14,7 @@
         <label>Saldo:</label>
         <input type="text" name="saldo" placeholder="00,00">
         <br><br>
-        <input type="submit" name="cadastrar" value="CADASTRAR">
+        <button type="submit" name="cadastrar" value="Cadastrar" class="cad">Cadastrar</button>
     </fieldset>
 </form>
 

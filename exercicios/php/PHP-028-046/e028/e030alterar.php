@@ -4,6 +4,7 @@
 <nav>
     <h1>ALTERAR CADASTRO</h1>
 </nav>
+<header>
 <?php
 session_start();
 require_once 'e028.php';
@@ -32,3 +33,4 @@ $alterar = $_SESSION['cadastro'][$_GET['ID']];
     header("refresh: 2;e029.php");
  }
 ?>
+</header>

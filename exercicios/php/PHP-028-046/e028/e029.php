@@ -1,7 +1,7 @@
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
-
+<header>
 <?php
 require_once('e028.php');
 session_start();
@@ -50,7 +50,7 @@ foreach($_SESSION['cadastro'] as $indice => $pessoa){
     echo "Idade: " . $pessoa['idade'] . $b;
     echo "CEP: " . $pessoa['CEP'] . $b;
     include('e032saldo.php');
-    echo "<a href=e031apagar.php?Delete=" . $indice . "&Nome=" . $pessoa['nome'] . "&Idade=" . $pessoa['idade'] . "&CEP=". $pessoa['CEP'] . "><button>Excluir Cadastro</button></a>" . $b;
+    echo "<a href=e031apagar.php?Delete=" . $indice . "&Nome=" . urlencode($pessoa['nome'])  . "&Idade=" . $pessoa['idade'] . "&CEP=". $pessoa['CEP'] . "><button>Excluir Cadastro</button></a>" . $b;
     echo"<a href=e030alterar.php?ID=".$indice ."><button>Editar Cadastro</button></a>" . $b;
     }
 ?>
@@ -59,7 +59,7 @@ foreach($_SESSION['cadastro'] as $indice => $pessoa){
 <form action="" method="POST">
     <input type="submit" name="restaurar" value="Restaurar Cadastro" class="btn_rest">
 </form>
-
+</header>
 <footer>
 <?php
 include_once('e033total.php');

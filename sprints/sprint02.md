@@ -416,7 +416,7 @@ $ARRAY AS $CHAVE => $VALOR
 
 ## 13/06
 
- - Continuação das atividades [028PHP](/exercicios/php/PHP-028-046/index.md)
+ - Continuação das atividades [028PHP](/exercicios/php/PHP-028-046/)
 
  - Início de sessão;
 
@@ -428,5 +428,9 @@ session_start();
 
  - Array Splice
 
- - Continuação das atividades [028PHP](/exercicios/php/PHP-028-046/index.md)
+ - Continuação das atividades [028PHP](/exercicios/php/PHP-028-046/e028/)
+
+ ## 20/06
+
+ - Atividade do site de cadastros refeita do zero. [028PHP V2](/exercicios/php/PHP-028-046/e028_v2/index.php
 

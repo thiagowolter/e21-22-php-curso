@@ -1,3 +1,9 @@
+header
+{
+    background-color: rgb(239, 239, 239);
+    text-align: center;
+    
+}
 footer
 {
     position: relative;
@@ -15,7 +21,6 @@ nav
 {
     text-transform: uppercase;
     background-color: rgb(255, 34, 34);
-    margin: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #FFF;
     text-align: center;
@@ -32,6 +37,7 @@ nav
     width: 150px;
     padding: 10px;
     border-radius: 20px;
+    text-align: center;
 }
 .btn_cad
 {
@@ -39,6 +45,7 @@ nav
     width: 150px;
     padding: 10px;
     border-radius: 20px; 
+    
 }
 .list
 {

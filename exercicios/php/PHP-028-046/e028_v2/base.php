@@ -10,7 +10,5 @@ $cadastro2 = array(
     "3" => array("nome" => "William" , "idade" => "23" , "cep" => "80001-000" , "saldo" => "300"),
     "4" => array("nome" => "Matheus" , "idade" => "24" , "cep" => "87128-000" , "saldo" => "600")
 );
-if (!$_SESSION['cadastro2']){
-    $_SESSION['cadastro2'] = $cadastro2;
-}
+
 ?>

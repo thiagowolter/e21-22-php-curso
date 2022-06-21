@@ -1,7 +1,4 @@
 <?php
-
-
-
 $cadastro = array(
     "1" => array("nome" => "Adriano",
         "idade" => "81",
@@ -32,18 +29,8 @@ $cadastro = array(
         "CEP" => "11110-000",
         "saldo" => "400",
     ),
-
 );
-
 $b = '<br>'
-
-// var_dump($cadastro);
-// var_dump($array['1']['nome']);
-// var_dump($array['1']['idade']);
-// var_dump($array['1']['CEP']);
-
-
-
 ?>
 
 

@@ -4,7 +4,7 @@
 <nav>
     <h1>APAGAR CADASTRO</h1>
 </nav>
-
+<header>
 <?php
 session_start();
 require_once 'e028.php';
@@ -22,6 +22,7 @@ if ($_GET['Nome']) {
 }
 ?>
 </div>
+</header>
 
 
 
