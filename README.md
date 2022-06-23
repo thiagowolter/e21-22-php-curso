@@ -1,6 +1,3 @@
-# Faer isto no terminal 
-git config user.name "Thiago Wolter"
-
 
 # e21-22-php-curso
 

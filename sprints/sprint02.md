@@ -434,3 +434,7 @@ session_start();
 
  - Atividade do site de cadastros refeita do zero. [028PHP V2](/exercicios/php/PHP-028-046/e028_v2/index.php
 
+  ## 22/06 e 23/06
+
+ - Continuação do dia 20/06 [028PHP V2](/exercicios/php/PHP-028-046/e028_v2/index.php
+

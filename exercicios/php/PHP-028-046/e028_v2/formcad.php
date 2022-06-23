@@ -6,9 +6,9 @@ require_once 'base.php';
 <form action="" method="POST">
     <fieldset>
         <label>Nome:</label>
-        <input type="text" name="nome" placeholder="Nome">
+        <input type="text" name="nome" placeholder="Nome" required>
         <label>Idade:</label>
-        <input type="number" name="idade" placeholder="00">
+        <input type="number" name="idade" placeholder="00" required>
         <label>CEP:</label>
         <input type="text" name="cep" placeholder="12345-678">
         <label>Saldo:</label>
