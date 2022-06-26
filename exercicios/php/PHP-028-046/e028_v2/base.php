@@ -11,7 +11,7 @@ $cadastro2 = array(
     "4" => array("nome" => "Matheus" , "idade" => "24" , "cep" => "87128-000" , "saldo" => "600")
 );
 
-// if (!$_SESSION['cadastro2']){
-//     $_SESSION['cadastro2'] = $cadastro2;
-// }
+if (!$_SESSION['cadastro2']){
+    $_SESSION['cadastro2'] = $cadastro2;
+}
 ?>
