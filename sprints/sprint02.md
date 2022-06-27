@@ -438,3 +438,11 @@ session_start();
 
  - Continuação do dia 20/06 [028PHP V2](/exercicios/php/PHP-028-046/e028_v2/index.php
 
+ ## 24/06
+
+ - Trabalho no arquivo [FUNDO OBS](/exercicios/php/PHP-028-046/fundos-obs/index.php)
+
+ ## 27/06
+
+ - Inicio do exercicio de [LOGIN](/exercicios/php/PHP-028-046/sist-login/)
+
