@@ -104,6 +104,8 @@ durante o treinamento e deverá ser mantido até o final.
 
 ## [SPRINT 02 - Lógica de Programação](/sprints/sprint02.md)
 
+## [SPRINT 03 - Banco de Dados](/sprints/sprint03.md)
+
 ## [ENGLISH Classes](/sprints/english.md)
 </br>
 </br>
@@ -117,6 +119,7 @@ durante o treinamento e deverá ser mantido até o final.
 - [Ementa-PHP.pdf](https://github.com/Machado-tec/e2122-php-geral/files/8628363/Ementa-PHP.pdf)
 - [GoogleDrive do Curso](https://drive.google.com/drive/folders/1vWKH88iZ7QkIiVXtKNCI3P4pvk1pdYhG?usp=sharing)
 - [Manual do PHP](https://www.php.net/manual/pt_BR/)
+- [Portal Maxado.com.br](http://www.maxado.com.br/ead/?redirect=0)
 
 ### **Livros**
 
@@ -125,6 +128,9 @@ durante o treinamento e deverá ser mantido até o final.
 - [Algoritmos Logica para Desenvolvimento de programação de computadores](https://www.amazon.com.br/Algoritmos-Funcionais-Introdu%C3%A7%C3%A3o-minimalista-programa%C3%A7%C3%A3o-ebook/dp/B08M48DR48/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Curso de logica de Programação](https://www.amazon.com.br/Curso-l%C3%B3gica-programa%C3%A7%C3%A3o-Ricardo-Said-ebook/dp/B00DN8P73G)
 
+
 ### **Playlist Aulas Completas**
 
 - [Playlist do Youtube](https://youtube.com/playlist?list=PL2WEynOui8TQxNqHE7IXrlirkVM7SDp9w)
+
+- [Canal Adriano Machado](https://www.youtube.com/channel/UC4Igh56teEN820u7bEcPJUg)
