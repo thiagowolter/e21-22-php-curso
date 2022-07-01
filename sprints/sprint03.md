@@ -2,6 +2,8 @@
 
 ## 29/06
 
+## MODULO 1
+
 ### O que é banco de dados?
 
  Conjunto de informações organizadas em um formato onde os dados possam facilmente:
@@ -68,19 +70,56 @@ A chave primaria deve ser:
 
 #### 1:1 - Relacionamento um para um
 
--![FK](/img/1p1.JPG) <br>
+![FK](/img/1p1.JPG) <br>
 
 #### 1:N - Relacionamento um para muitos
 
--![FK](/img/1pN.JPG) <br>
+![FK](/img/1pN.JPG) <br>
 
 #### M:N - Relacionamento muitos para muitos
 
--![FK](/img/MpN.JPG) <br>
+![FK](/img/MpN.JPG) <br>
 
 #### Auto Relacionamento
 
--![FK](/img/auto.JPG) <br>
+![FK](/img/auto.JPG) <br> <br> <br>
+
+
+## 01/07 
+
+## MODULO 2
+
+### Modelo de Dados
+
+- Modelo de dados são formas visuais de mostrar a organização da base. 
+- Modelo de dados relacionais são formas visuais de mostrar o organização entre entidades.
+
+![FK](/img/mod.JPG) <br>
+
+### DER
+
+DIAGRAMA DE ENTIDADE E RELACIONAMENTOS DER
+
+- Ferramenta utilizada: QUICK DBD
+
+![FK](/img/de.JPG) 
+
+- Relacionando
+
+![FK](/img/der.JPG) <br>
+
+### Cardinalidades
+
+- 1:1 representa-se com um hifen : -
+
+- 1:N representa-se com maior + hifen :>-
+
+- M:N representa-se com maior + hifen + menor : >-<
+
+![FK](/img/cardi.JPG) <br>
+
+
+
 
 
 

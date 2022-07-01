@@ -90,6 +90,10 @@ durante o treinamento e deverá ser mantido até o final.
 
 - Ambiente de desenvolvimento para PHP. O XAMPP possui a distribuição Apache com MySQL e Perl integrados. Ferramenta de fácil utilização. [Acesse aqui](https://www.apachefriends.org/pt_br/index.html).
 
+## QUICK DBD
+
+- Quick Database Diagrams (QuickDBD) is a simple online tool to quickly draw database diagrams by typing. [Acesse Aqui](https://app.quickdatabasediagrams.com/#/).
+
 ## Ferramentas de Comunicação
 
 - [Discord](https://discord.com/)
