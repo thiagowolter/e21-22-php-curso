@@ -444,5 +444,5 @@ session_start();
 
  ## 27/06
 
- - Inicio do exercicio de [LOGIN](/exercicios/php/PHP-028-046/sist-login/)
+ - Inicio do exercicio de [LOGIN](/exercicios/php/PHP-028-046/login/index.php)
 
