@@ -118,6 +118,12 @@ DIAGRAMA DE ENTIDADE E RELACIONAMENTOS DER
 
 ![FK](/img/cardi.JPG) <br>
 
+## 04/07
+
+- Realização do Segundo DER
+
+- Realização de prova/atividade de fixação do conteúdo.
+
 
 
 
