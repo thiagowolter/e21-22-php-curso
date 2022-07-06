@@ -118,6 +118,118 @@ DIAGRAMA DE ENTIDADE E RELACIONAMENTOS DER
 
 ![FK](/img/cardi.JPG) <br>
 
+## 06/07
+
+<br> <br>
+
+### **SQL**
+
+ - Linguagem de comunicacao com o Banco de dados
+ - Sql = Structured Query Language
+
+ - Criar e Modificar
+    - Banco de dados;
+    - Tabelas;
+    - Permissoes de Acesso;
+    - Registrar dados; <Br>
+ - Gerenciar transações: confirmar ou desfazer;
+
+
+### Organização do SQL
+
+![FK](/img/orgsql.JPG) <br>
+
+### DDL CREATE:
+
+ - DDL Data Definition Language ou Linguagem de Definição de Dados.
+
+ - Criamos uma estrutura pela ide adp https://app.quickdatabasediagrams.com/#/d/vRiRrt
+
+ #### Instruções geradas automaticamente para MYSQL:
+
+```
+CREATE TABLE `PESSOAS` ( 
+    `ID` INT  NOT NULL , 
+    `CPF` TEXT  NOT NULL , 
+    `NOME` TEXT  NOT NULL , 
+    `IDADE` INT  NOT NULL , 
+    PRIMARY KEY (`ID` ) 
+);
+```
+
+#### Versão SQL:
+
+```
+CREATE TABLE PESSOAS (
+    ID INTEGER PRIMARY KEY AUTOINCREMENT, 
+    CPF TEXT, 
+    NOME TEXT NOT NULL, 
+    IDADE INTEGER 
+)
+```
+<br><br>
+
+### DML INSERT:
+
+- SQL INSERT INTO 
+
+- CPF, NOME, IDADE
+
+```
+INSERT INTO PESSOAS(CPF, NOME, IDADE) 
+VALUES                                  
+    ('123.456.789-00', 'ADRIANO MACHADO', 47), 
+    ('233.567.789-01', 'KARINA MACHADO', 45); 
+```
+
+### Criação de tabela
+
+ - Criação do arquivo [PESSOAS.SQL](/exercicios/sql/mod3/PESSOAS.SQL) no formato SQL. <br> <br>
+
+### SQLITE
+
+ - Instalar o sqlite3 (sqlite.org)
+
+```
+sqlite3 Modulo3.db
+sqlite> .read pessoas.sql # este comando, iniciado com . (ponto) é um comando do SQlite. 
+sqlite> .schema PESSOAS
+```
+
+### DQL SELECT:
+
+```
+SELECT * 
+FROM PESSOAS; 
+```
+
+### DML UPTADE:
+
+```
+UPDATE PESSOAS 
+    SET SALARIO=10.00 
+    WHERE ID=2 ;
+``` 
+Este é o modo correto (acima)
+```
+UPDATE PESSOAS 
+    SET SALARIO=10.00 ;
+```
+    
+Nesta condição acima alteramos todos os registros da base, pois esquemos de colocar o WHERE.
+Devemos ter muito cuidado com isso!
+
+### DML DELETE:
+
+```
+SELECT * FROM PESSOAS WHERE ID = 2; 
+DELETE   FROM PESSOAS WHERE ID = 2; 
+```
+
+
+
+
+
 
 
 
