@@ -23,9 +23,11 @@
 - BDR: Caracterizado pela forma como os dados sao organizados.
 - Tabelas respeitam um SCHEMA, que determina como as tabelas devem ser.
 
+```
 :     CPF        : NOME   : IDADE :<br>
 : 123.456.678-44 : Thiago : 20    :<br>
 : 333.444.555.55 : Arthur : 11    :<br>
+```
 
  - Tabela == Entidade
  - Coluna == Atributo
@@ -119,7 +121,7 @@ DIAGRAMA DE ENTIDADE E RELACIONAMENTOS DER
 ![FK](/img/cardi.JPG) <br>
 
 ## 06/07
-
+## MODULO 3
 <br> <br>
 
 ### **SQL**
@@ -225,11 +227,100 @@ Devemos ter muito cuidado com isso!
 SELECT * FROM PESSOAS WHERE ID = 2; 
 DELETE   FROM PESSOAS WHERE ID = 2; 
 ```
+<BR>
 
+## 11/06
 
+## MODULO 4
 
+<BR>
 
+- Criação do Arquivo [modulo4.sql](/exercicios/sql/mod4/modulo4.SQL);
 
+### SELECT DISTINCT
+
+```
+SELECT DISTINCT (PESSOAS_NOME)
+FROM PESSOAS;
+```
+[QUERY.SQL](/exercicios/sql/mod4/query.sql);
+
+### SELECT WHERE
+
+```
+1 = 1 
+1 <> 2 ou 1 != 2 
+1 < 2 
+2 > 1
+```
+
+```
+SELECT PESSOAS_NOME FROM PESSOAS 
+WHERE PESSOAS_IDADE < 20;
+
+SELECT PESSOAS_IDADE FROM PESSOAS 
+WHERE PESSOAS_NOME = 'Thiago Wolter';
+```
+
+### OPERADORES LOGICOS
+
+```
+: IN      : Retorna 1 se o valor testado estiver na lista 
+: LIKE    : Retorna 1 se o valor testado coincidir com o padrão passado 
+: AND     : Retorna 1 se as duas expressoes testadas forem 1 
+: OR      : Retorna 1 se uma das duas expressoes testadas forem 1 
+: BETWEEN : Retorna 1 se o valor testado estiver no intervalo passado
+```
+
+```
+SELECT * FROM PESSOAS WHERE PESSOAS_IDADE IN (20,40);
+SELECT * FROM PESSOAS WHERE PESSOAS_NOME LIKE '%Thiag%';
+SELECT * FROM PESSOAS WHERE PESSOAS_NOME LIKE '%Thiag%' AND PESSOAS_IDADE = 21;
+SELECT * FROM PESSOAS WHERE PESSOAS_NOME LIKE '%Thiag%' OR PESSOAS_NOME LIKE '%Joa%';
+SELECT * FROM PESSOAS WHERE PESSOAS_IDADE BETWEEN 20 AND 25;
+```
+
+### ORDER BY
+
+```
+SELECT PESSOAS_IDADE, PESSOAS_NOME FROM PESSOAS ORDER BY PESSOAS_IDADE, PESSOAS_NOME;
+
+ADICIONAR AO FINAL: 
+DESC -> PARA MOSTRAR NA DESCENDENTE.
+```
+
+### FUNCOES EMBUTIDAS
+
+```
+select avg(pessoa_idade) from pessoas; 
+
+select min(pessoa_idade) from pessoas; 
+
+select max(pessoa_idade) from pessoas;
+
+select sum(pessoa_idade) from pessoas;
+
+select count(*) from pessoas; 
+```
+
+### GROUP BY
+
+```
+SELECT PESSOAS_IDADE, COUNT(PESSOAS_NOME) FROM PESSOAS GROUP BY PESSOAS_IDADE;
+```
+
+### JUNÇÕES
+
+```
+SELECT 
+    CIDADES.CIDADES_NOME, 
+    PESSOAS.PESSOAS_NOME,
+    PESSOAS.PESSOAS_IDADE
+FROM    
+    PESSOAS,CIDADES
+WHERE 
+    PESSOAS.PESSOAS_CIDADES_ID = CIDADES.CIDADES_ID;
+```
 
 
 

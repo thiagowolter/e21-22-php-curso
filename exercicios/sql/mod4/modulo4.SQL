@@ -1,0 +1,46 @@
+
+BEGIN TRANSACTION;
+DROP TABLE IF EXISTS CIDADES; 
+COMMIT;
+BEGIN TRANSACTION;
+
+CREATE TABLE CIDADES (
+    CIDADES_ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    CIDADES_NOME TEXT NOT NULL
+);
+
+DROP TABLE IF EXISTS PESSOAS;
+
+CREATE TABLE PESSOAS(
+    PESSOAS_ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    PESSOAS_NOME TEXT NOT NULL,
+    PESSOAS_IDADE INTEGER,
+    PESSOAS_CIDADES_ID INTEGER NOT NULL
+);
+
+INSERT INTO CIDADES (CIDADES_NOME)
+    VALUES
+    ('Rio De Janeiro'),
+    ('Sao Paulo'),
+    ('Florianopolis'),
+    ('Porto Alegre'),
+    ('Joinville')
+    ;
+
+INSERT INTO PESSOAS (PESSOAS_NOME, PESSOAS_IDADE, PESSOAS_CIDADES_ID)
+    VALUES
+    ('Thiago Wolter',21,3),
+    ('Arthur Felipe', 11,2),
+    ('Joao Victor  ', 20,1),
+    ('Soeli Kamke  ', 40,5),
+    ('Maria Joana  ',23,4),
+    ('Pedro Lucas  ',44,1),
+    ('Tiao Souza   ',21,3),
+    ('Santos Dumond',44,2)
+    ;
+    
+COMMIT;
+
+-- SELECT * FROM CIDADES;
+-- SELECT * FROM PESSOAS;
+
