@@ -324,6 +324,16 @@ WHERE
 
 ## 12/06 a 18/06
 
+- Realização do EXERCÍCIO 200:
+
+Trata-se de uma base de dados para uma conveniência. Com esta base de dados vamos poder gerar um cardápio eletronico e também gerar cupons fiscais ao final.
+
+ - EXERCÍCIO RESOLVIDO:
+
+[EXERCICIO 200](/exercicios/sql/ex200/)
+
+
+
 
 
 
