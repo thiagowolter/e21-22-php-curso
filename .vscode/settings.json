@@ -1,0 +1,41 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite",
+            "name": "teste"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste1",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "teste",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

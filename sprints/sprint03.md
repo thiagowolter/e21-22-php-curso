@@ -333,7 +333,78 @@ Trata-se de uma base de dados para uma conveniência. Com esta base de dados vam
 [EXERCICIO 200](/exercicios/sql/ex200/)
 
 
+## 01/08 VOLTA DAS FÉRIAS
 
+- PROGRESSO:
+
+![PROGRESSO](/img/progresso.JPG)
+
+
+### USOS APROPRIADOS PARA SQLITE
+
+#### - CLIENT => SERVER
+- Mysql/MariaDB
+- Oracle
+- PostgreSQL <br>
+(Esforçam: Dados compartilhados em ambientes coporativos) 
+- Escalabilidade
+- Simultaneidade
+- Centralização
+- Controle <BR>
+
+#### - SQLITE
+- Armazenar dados localmente
+- Economia
+- Eficiência
+- Confiabilidade
+- Independencia
+- Simplicidade.
+- SQLite não compete com os bancos de dados Client/Server fopen()
+
+#### Situações em que o SQLite funciona bem
+
+- Dispositivos Incorporados (Embedded devices)
+- Internet das Coisas IOT
+- Formato de arquivo do aplicativo
+- Sites (trafego baixo ou médio) https://www.sqlite.org
+- Analise de dados
+- Cache para dados corporativos
+- Banco de dados do lado do servidor:
+    - Base Principal/Bases externas
+    - Aplicativo
+    - Diversas bases SQLite Por usuário
+    - Aplicativo/API
+    - Diversos Usuários
+ - Transferencia de dados 
+ - Zip Files 
+ - Bancos de dados internos ou temporários 
+    - Demos ou testes - Educação e Treinamento 
+- Extensões de SQL Experimental (protótipos)
+
+
+#### Visão geral: <br> 
+- Client/Server -> Datacenter
+- SQLite -> dispositivos
+
+
+### Situações em que um RDBMS client/server pode funcionar melhor.
+
+- Aplicativos Client/Server
+- Sites de alto volume
+- Conjuntos de dados muito grandes
+- Alta simultaniedade <br>
+
+### Lista de verificação para escolher o melhor mecanismo de banco de dados para a sua aplicação.
+
+#### Escolha cliente servidor se:
+- **Os Dados são separados do aplicativo por uma rede?**
+
+- **Muitos escritores simultâneos?**
+
+- **Dados tipo XXG?**
+
+#### Caso contrario:
+- **Escolha SQLITE**
 
 
 
