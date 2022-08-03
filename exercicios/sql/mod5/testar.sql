@@ -7,9 +7,13 @@ CREATE TABLE PESSOAS (
 
 INSERT INTO PESSOAS(NOME)
 VALUES
-(
-    'THIAGO'
-)
-(
-    'MARIA'
-);
+('Claudio'),
+('Willian'),
+('Matheus'),
+('Débora'),
+('Marli'),
+('Bruno'),
+('Thiago'),
+('Adriano'),
+('João'),
+('Maria');

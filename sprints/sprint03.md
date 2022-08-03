@@ -408,6 +408,10 @@ Trata-se de uma base de dados para uma conveniência. Com esta base de dados vam
 
 
 
+## 03/08
 
+ - Inicio do exercicio 200 - 1
+
+ 
 
 

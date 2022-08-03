@@ -3,38 +3,14 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite",
-            "name": "teste"
+            "name": "testar",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/mod5.sqlite"
         },
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "teste",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "teste",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "teste",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "teste1",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "teste",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/modulo5.sqlite"
+            "name": "ex2001",
+            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/ex200-1/ex2001.sqlite"
         }
     ],
     "sqltools.useNodeRuntime": true
