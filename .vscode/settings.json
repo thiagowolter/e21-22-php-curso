@@ -5,12 +5,6 @@
             "driver": "SQLite",
             "name": "testar",
             "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/mod5.sqlite"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "ex2001",
-            "database": "${workspaceFolder:e21-22-php-curso}/exercicios/sql/mod5/ex200-1/ex2001.sqlite"
         }
     ],
     "sqltools.useNodeRuntime": true
