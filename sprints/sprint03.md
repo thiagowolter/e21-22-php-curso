@@ -410,7 +410,19 @@ Trata-se de uma base de dados para uma conveniência. Com esta base de dados vam
 
 ## 03/08
 
+## MODULO 5
+
  - Inicio do exercicio 200 - 1
+
+## 08/08
+
+ - Ecercicio 200 - 1 concluído [ex200-1](/exercicios/sql/mod5/ex200-1/)
+
+## MODULO 6
+
+ - Vídeos + exemplo [ex001](/exercicios/sql/mod6/exemplo-1/)
+
+ - Inicio do exercicio 200 - 2
 
  
 
