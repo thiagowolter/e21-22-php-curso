@@ -1,5 +1,5 @@
 <?php
-session_start();
+// session_start();
 require_once 'head.php';
 
 require_once 'config.php'
@@ -14,13 +14,12 @@ require_once 'config.php'
     <?php
     require_once 'cadastrar.php';
     require_once 'impressao.php';
-    require_once 'restaurar.php';
+    // require_once 'restaurar.php';
     ?>
 </body>
 <footer>
     <?php
     require_once 'totalcad.php';
-    require_once 'mediaidade.php';
     ?>
 </footer>
 </html>

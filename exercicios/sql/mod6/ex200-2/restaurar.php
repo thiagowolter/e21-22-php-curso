@@ -5,6 +5,6 @@
 
 <?php
 if (isset($_POST['restaura'])) {        
-    $_SESSION['cadastro2'] = $cadastro2;
+    
 }
 ?>

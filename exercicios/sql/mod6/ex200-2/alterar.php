@@ -4,40 +4,48 @@
 </nav>
 <?php
 require_once 'head.php';
-require_once 'base.php';
+require_once 'config.php';
 session_start();
-
-$alterar = $_SESSION['cadastro2'][$_GET['ID']];
 ?>
 <form action="" method="POST">
     <fieldset>
         <label>Nome:</label>
-        <input type="text" name="nome" value="<?php echo $alterar['nome']; ?>">
+        <input type="text" name="nome" value="">
         <label>Idade:</label>
-        <input type="number" name="idade" value="<?php echo $alterar['idade']; ?>">
+        <input type="number" name="idade" value="">
         <label>CEP:</label>
-        <input type="text" name="cep" value="<?php echo $alterar['cep']; ?>">
+        <input type="text" name="cep" value="">
         <label>Saldo:</label>
-        <input type="text" name="saldo" value="<?php echo $alterar['saldo']; ?>">
+        <input type="text" name="saldo" value="">
         <br><br>
         <button type="submit" name="altera" value="Alterar" class="alt">Alterar</button>
     </fieldset>
 </form>
 
 <?php
-if (isset($_POST['altera'])) {
-    $nome = $_POST['nome'] ;
-    $idade = $_POST['idade'];
-    $cep = $_POST['cep'];
-    $saldo = $_POST['saldo'];
+$id = $_GET['ID'];
 
-    $_SESSION['cadastro2'][$_GET['ID']]['nome'] = $nome;
-    $_SESSION['cadastro2'][$_GET['ID']]['idade'] = $idade;
-    $_SESSION['cadastro2'][$_GET['ID']]['cep'] = $cep;
-    $_SESSION['cadastro2'][$_GET['ID']]['saldo'] = $saldo;
+if(isset($_POST['altera'])){
+    $sql1 = "UPDATE CADASTRO SET CADASTRO_NOME = :CADASTRO_NOME, CADASTRO_IDADE = :CADASTRO_IDADE, CADASTRO_CEP = :CADASTRO_CEP, CADASTRO_SALDO = :CADASTRO_SALDO  WHERE CADASTRO_ID=:id";
+    $tmp = $cadastro->prepare($sql1);
 
-    echo $b;
-    echo 'Salvando Alterações, retornando em ' . $tt . ' segundos!';
-    header("refresh: $tt; index.php");
+    $tmp->execute([
+        ':CADASTRO_NOME' => $_POST['nome'],
+        ':CADASTRO_IDADE'=> $_POST['idade'],
+        ':CADASTRO_CEP'=> $_POST['cep'],
+        ':CADASTRO_SALDO'=> $_POST['saldo'],
+        ':id' =>$id
+        ]);
+
+        echo $b;
+        echo 'Salvando Alterações, retornando em ' . $tt . ' segundos!';
+        header("refresh: $tt; index.php");
+
 }
+// $query = "SELECT * FROM CADASTRO WHERE CADASTRO_ID =". $alterar ;
+
 ?>
+
+
+
+
