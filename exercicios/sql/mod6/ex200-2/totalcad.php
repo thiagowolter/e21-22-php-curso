@@ -11,6 +11,8 @@ $query = "SELECT * FROM CADASTRO";
 foreach($cadastro->query($query) as $pessoa){
     $soma += $pessoa['CADASTRO_IDADE'];
 }
+
+
 $media = $soma / $total_cad['T'] ;
 
 echo 'Cadastrados: ' . $total_cad['T'] . ' | '. 'Média de idade: '. $media;
