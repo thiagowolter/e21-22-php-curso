@@ -94,9 +94,18 @@ durante o treinamento e deverá ser mantido até o final.
 
 - Quick Database Diagrams (QuickDBD) is a simple online tool to quickly draw database diagrams by typing. [Acesse Aqui](https://app.quickdatabasediagrams.com/#/).
 
+## DBeaver
+
+ - DBeaver é uma ferramenta de banco de dados universal gratuita e de código aberto para desenvolvedores e administradores de banco de dados. [Acesse aqui](https://dbeaver.io/).
+
+## Extensões para VS CODE
+
+ - SQLTools, MySQL e SQLite Viewer: Visualizadores de bases de dadosMySQL.
+ - GIT Graph: Controlador de versões.
+
+
 ## Ferramentas de Comunicação
 
-- [Discord](https://discord.com/)
 - [Google Meet](https://meet.google.com/)
 - [Telegram](https://web.telegram.org/z/)
 
@@ -109,6 +118,8 @@ durante o treinamento e deverá ser mantido até o final.
 ## [SPRINT 02 - Lógica de Programação](/sprints/sprint02.md)
 
 ## [SPRINT 03 - Banco de Dados](/sprints/sprint03.md)
+
+## [SPRINT 04 - Framework LARAVEL](/sprints/sprint04.md)
 
 ## [ENGLISH Classes](/sprints/english.md)
 </br>

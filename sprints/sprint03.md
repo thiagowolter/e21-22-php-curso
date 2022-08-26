@@ -424,6 +424,14 @@ Trata-se de uma base de dados para uma conveniência. Com esta base de dados vam
 
  - Inicio do exercicio 200 - 2
 
+ ## 10/08
+
+ - CICLO DE PALESTRAS
+
+ ## 15/08
+
+ - Conclusão do exercício 200-2 [ex200-2](/exercicios/sql/mod6/ex200-2/) 
+
  
 
 
