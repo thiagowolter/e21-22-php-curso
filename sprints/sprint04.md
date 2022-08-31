@@ -19,3 +19,8 @@ composer create-project laravel/laravel example-app
 php artisan serve
  ```
 
+## 31/08
+
+ - Conceitos Laravel
+
+ ![mvc](/img/mvc.JPG)
