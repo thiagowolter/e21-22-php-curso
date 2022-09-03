@@ -1,5 +1,5 @@
 @include('header')
 
-<p> AQUI ESTAO AS RAÇAS</p>
+<p> LOJA </p>
 
 @include('footer')
