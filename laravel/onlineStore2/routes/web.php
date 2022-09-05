@@ -13,14 +13,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
-Route::get('produtos/', function () {
-    return view('prod');
-});
-Route::get('sign/', function () {
-    return view('login');
-});
+// Route::get('/', function () {
+//     return view('home');
+// });
+// Route::get('produtos/', function () {
+//     return view('prod');
+// });
+// Route::get('sign/', function () {
+//     return view('login');
+// });
+
+Route::get('/', 'App\Http\Controllers\HomeController@index')->name("home.index");
+Route::get('/products', 'App\Http\Controllers\ProductController@index')->name("product.index");
+Route::get('/about', 'App\Http\Controllers\HomeController@about')->name("home.about");
+Route::get('/products/{id}', 'App\Http\Controllers\ProductController@show')->name("product.show");
 
 
