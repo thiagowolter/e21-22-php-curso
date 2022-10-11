@@ -14,12 +14,15 @@
             display: inline-block;
             width: 200px;
         }
-        form{
+        .form-product{
             color: black;
+            width: 400px;
+            border: 2px solid greenyellow ;
+            border-radius: 5%;
+            margin-bottom: 20px;
         }
         input.enviar{
-            color: black;
-            background: white;
+            color: white;
             padding: 10px;
         }
     </style>
@@ -34,10 +37,25 @@
     <div class="container-fluid page-body-wrapper">
 
         <div class="container" align="center">
+
+        @if(session()->has('message'))
+
+            <div class="alert alert-success">
+
+            <button type="button" class="close" data-dismiss="alert">X</button>
+
+            {{session()->get('message')}}
+
+            </div>
+
+        @endif
+
             <h1 class="title">Adicionar produto</h1><br>
         
 
-        <form action="" style="color: black;">
+        <form class="form-product" action="{{url('uploadproduct')}}" method="POST" enctype="multipart/form-data"">
+
+            @csrf
 
             <div style="padding:15px;">
                 <label>Produto</label>
@@ -60,7 +78,7 @@
             </div>
 
             <div style="padding:15px;">
-                <input type="file" name="file">
+                <input class="enviar" type="file" name="file">
             </div>
 
             <div style="padding:15px;">
