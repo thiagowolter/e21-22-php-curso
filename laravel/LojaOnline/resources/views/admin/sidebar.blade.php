@@ -75,7 +75,15 @@
                         <span class="menu-icon">
                             <i class="mdi mdi-file-document-box"></i>
                         </span>
-                        <span class="menu-title">Produtos</span>
+                        <span class="menu-title">Adicionar Produto</span>
+                    </a>
+                </li>
+                <li class="nav-item menu-items">
+                    <a class="nav-link" href="{{url('showproduct')}}">
+                        <span class="menu-icon">
+                            <i class="mdi mdi-file-document-box"></i>
+                        </span>
+                        <span class="menu-title">Produtos Cadastrados</span>
                     </a>
                 </li>
             </ul>
