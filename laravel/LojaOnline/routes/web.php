@@ -33,6 +33,10 @@ Route::get('/',[HomeController::class,'index']);
 
 Route::get('/allproducts',[HomeController::class,'allproducts']);
 
+Route::get('/search',[HomeController::class,'search']);
+
+Route::post('/addcart/{id}',[HomeController::class,'addcart']);
+
 // ADMIN =================== 
 
 Route::get('/product',[AdminController::class,'product']);
@@ -46,3 +50,5 @@ Route::get('/deleteproduct/{id}',[AdminController::class,'deleteproduct']);
 Route::get('/updateproduct/{id}',[AdminController::class,'updateproduct']);
 
 Route::post('/updateform/{id}',[AdminController::class,'updateform']);
+
+Route::get('/addcart/{id}',[HomeController::class,'addcart']);
