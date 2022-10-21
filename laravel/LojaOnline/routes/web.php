@@ -37,6 +37,8 @@ Route::get('/search',[HomeController::class,'search']);
 
 Route::post('/addcart/{id}',[HomeController::class,'addcart']);
 
+Route::get('/showcart',[HomeController::class,'showcart']);
+
 // ADMIN =================== 
 
 Route::get('/product',[AdminController::class,'product']);

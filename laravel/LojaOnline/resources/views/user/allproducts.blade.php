@@ -46,7 +46,7 @@
 
                             @csrf
 
-                            <input style="width:85px;" type="number" value="1" min="1" class="form-control" name="quantity">
+                            <input style="width:85px;" type="number" value="1" min="1" class="form-control" name="quantity" required>
 
                             <br>
 

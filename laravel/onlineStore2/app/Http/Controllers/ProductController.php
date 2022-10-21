@@ -7,11 +7,11 @@ use Illuminate\Http\Request;
 class ProductController extends Controller
 {
     public static $products = [
-        ["id"=>"1", "name"=>"Borussia Dortmund", "description"=>"2022/23 Home Kit", "image" => "bvb.jpg","size"=>"M", "brand"=>"Puma", "price"=>"299,00"],
-        ["id"=>"2", "name"=>"Paris Saint-Germain", "description"=>"2022/23 Home Kit", "image" => "psg.jpg","size"=>"M", "brand"=>"Nike", "price"=>"399,00"],
-        ["id"=>"3", "name"=>"Liverpool FC", "description"=>"2021/22 Away Kit", "image" => "liverpool.jpg","size"=>"M", "brand"=>"Nike", "price"=>"199,00"],
-        ["id"=>"4", "name"=>"CR Flamengo", "description"=>"2022/23 Home Kit", "image" => "fla.jpg","size"=>"M", "brand"=>"Adidas","price"=>"299,00"],
-        ["id"=>"5", "name"=>"Real Madrid", "description"=>"2022/23 Home Kit", "image" => "real.jpg","size"=>"M", "brand"=>"Adidas", "price"=>"259,00"],
+        ["id"=>"1", "name"=>"Borussia Dortmund", "description"=>"2022/23 Home Kit", "image" => "bvb.jpg","size"=>"M", "brand"=>"Puma", "gender"=>"Masculino", "price"=>"299,00"],
+        ["id"=>"2", "name"=>"Paris Saint-Germain", "description"=>"2022/23 Home Kit", "image" => "psg.jpg","size"=>"M", "brand"=>"Nike", "gender"=>"Feminino",  "price"=>"399,00"],
+        ["id"=>"3", "name"=>"Liverpool FC", "description"=>"2021/22 Away Kit", "image" => "liverpool.jpg","size"=>"M", "brand"=>"Nike", "gender"=>"Masculino",  "price"=>"199,00"],
+        ["id"=>"4", "name"=>"CR Flamengo", "description"=>"2022/23 Home Kit", "image" => "fla.jpg","size"=>"M", "brand"=>"Adidas", "gender"=>"Masculino", "price"=>"299,00"],
+        ["id"=>"5", "name"=>"Real Madrid", "description"=>"2022/23 Home Kit", "image" => "real.jpg","size"=>"M", "brand"=>"Adidas", "gender"=>"Masculino", "price"=>"259,00"],
     ];
 
     public function index()

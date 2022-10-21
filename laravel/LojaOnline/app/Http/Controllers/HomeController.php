@@ -53,7 +53,11 @@ class HomeController extends Controller
     {   
         $data = Product::paginate(6);
 
-        return view('user.allproducts', compact('data'));
+        $user=auth()->user();
+
+        $count=cart::where('phone',$user->phone)->count();
+
+        return view('user.allproducts', compact('data','count'));
     }
 
     public function search(Request $request)
@@ -103,5 +107,11 @@ class HomeController extends Controller
         {
             return redirect('login');
         }
+    }
+
+    public function showcart()
+    {
+
+        return view('user.showcart');
     }
 }

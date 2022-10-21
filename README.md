@@ -121,7 +121,6 @@ durante o treinamento e deverá ser mantido até o final.
 
 ## [SPRINT 04 - Framework LARAVEL](/sprints/sprint04.md)
 
-## [ENGLISH Classes](/sprints/english.md)
 </br>
 </br>
 

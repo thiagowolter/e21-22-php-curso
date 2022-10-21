@@ -38,3 +38,8 @@ php artisan serve
 ### Controller
 
     A camada de controle é responsável por intermediar as requisições enviadas pelo View com as respostas fornecidas pelo Model, processando os dados que o usuário informou e repassando para outras camadas. 
+
+
+## Projeto Final PESSOAL:
+
+    Loja Online [E-COMMERCE](/laravel/LojaOnline/)
