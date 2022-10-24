@@ -121,6 +121,8 @@ durante o treinamento e deverá ser mantido até o final.
 
 ## [SPRINT 04 - Framework LARAVEL](/sprints/sprint04.md)
 
+## [PROJETO FINAL - EUQUEFIZ E-COMMERCE](http://euquefiz.herokuapp.com/)
+
 </br>
 </br>
 
