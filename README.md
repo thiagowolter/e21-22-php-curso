@@ -103,6 +103,10 @@ durante o treinamento e deverá ser mantido até o final.
  - SQLTools, MySQL e SQLite Viewer: Visualizadores de bases de dadosMySQL.
  - GIT Graph: Controlador de versões.
 
+## LARAVEL
+
+- Framework para PHP 
+- [Laravel](https://laravel.com/)
 
 ## Ferramentas de Comunicação
 
